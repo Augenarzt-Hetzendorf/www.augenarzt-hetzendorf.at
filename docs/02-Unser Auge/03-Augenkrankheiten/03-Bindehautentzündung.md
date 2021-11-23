@@ -1,7 +1,14 @@
 ---
-id: Bindehautentzündung
+id: Konjunktivitis
 title: Bindehautentzündung
 sidebar_position: 2
+tags:
+ - Augenkrankheiten
+ - Bindehautentzündung
+ - Brennende-Augen
+ - Entzündungen
+ - Geschwollene-Augenlider
+ - Juckreiz
 ---
 
 # Konjunktivitis - Bindehautentzündung 
@@ -61,6 +68,8 @@ Als häufige Ursache einer viralen Konjunktivitis gelten die hoch  ansteckenden 
 Nur in seltenen Fällen liegt eine sogenannte Mykose – eine Pilzinfektion – oder eine Infektion mit Parasiten zugrunde.
 
 Die **nicht-infektiöse Konjunktivitis** tritt nach starken Reizungen des Auges durch Umwelteinflüsse auf. Dazu gehören zum Beispiel Zugluft, Staub, Rauch und Abgase sowie grelles Licht. Gleiches  gilt für Pollen-, Tierhaar- oder Hausstauballergien. Doch auch eine dauerhafte Überanstrengung der Augen sowie verschmutzte Kontaktlinsen erhöhen das Risiko für eine Bindehautentzündung.
+
+
 
 ## Diagnose einer Bindehautentzündung 
 

@@ -1,10 +1,17 @@
 ---
-id: Hornhautentzündung 
+id: Keratitis 
 title: Hornhautentzündung 
 sidebar_position: 2
+tags:
+ - Entzündung
+ - Hornhautentzündung 
 ---
 
 # Keratitis - Hornhautentzündung 
+
+------
+
+
 
 ## Die Hornhautentzündung auf einen Blick
 
@@ -16,6 +23,8 @@ sidebar_position: 2
 - **Therapie**: Antibiotika, verschiedene Salben oder das Abtragen betroffener Hornhautschichten.
 
 :::
+
+
 
 ## Was ist eine Hornhautentzündung?
 

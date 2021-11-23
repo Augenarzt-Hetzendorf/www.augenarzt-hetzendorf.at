@@ -2,6 +2,8 @@
 id: intro
 title: Herzlich Willkommen 
 sidebar_position: 1
+tags:
+ - Einleitung
 ---
 
 # Herzlich Willkommen in meiner **Ordination für Augenheilkunde** in Wien, Hetzendorf.
@@ -14,4 +16,12 @@ Als Wahlärztin habe ich keinen Vertrag mit einer Krankenkasse, die Bezahlung er
 
 Ich freue mich auf Ihren Besuch!
 Ihre Privatdozentin Dr. Saskia Tipotsch
+
+
+
+
+
+
+
+
 
