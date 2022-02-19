@@ -1,12 +1,16 @@
 ---
 id: Haftungsausschluss
 title: Haftungsausschluss
-sidebar_position: 7
+sidebar_position: 50
 ---
 
 # Haftungsausschluss
 
+*Schadenersatz und Haftungseinschränkung/Haftungsausschluss*
+
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-5.png)
+
+
 
 ## Zusammenfassung 
 
@@ -24,6 +28,6 @@ Wir übernehmen keine Haftung dafür, dass Informationen, Software oder anderes 
 
 Alle Rechte vorbehalten.
 
-## Rechtliche Grundlage
+### Rechtliche Grundlage
 
-ABGB
+- [ABGB](https://www.jusline.at/gesetz/abgb)

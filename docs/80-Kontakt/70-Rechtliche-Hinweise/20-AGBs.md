@@ -1,16 +1,16 @@
 ---
 id: AGB
 title: AGBs
-sidebar_position: 3
+sidebar_position: 20
 ---
 
 # Allgemeine Geschäftsbedingungen
 
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-4.png)
 
-## AGBs Augenarzt-Hetzendorf
+## AGBs für die Privatordination Augenarzt-Hetzendorf
 
-1. Die Allgemeinen Geschäftsbedingungen gelten für die augenärztliche Ordination Augenarzt-Hetzendorf von Dr. Saskia Tipotsch. Diese AGBs sind integrativer Bestandteil des Behandlungsvertrages.
+1. Die **Allgemeinen Geschäftsbedingungen (AGBs)** gelten für die augenärztliche Ordination Augenarzt-Hetzendorf von Dr. Saskia Tipotsch. Diese AGBs sind integrativer Bestandteil des Behandlungsvertrages.
 
 2. Die Allgemeinen Geschäftsbedingungen sind ausschließlich maßgebend sofern nicht anderslautende schriftliche Vereinbarungen mit dem Patienten getroffen werden.
 
@@ -25,3 +25,9 @@ sidebar_position: 3
 8. Mit der Unterschrift auf dem Anmeldeformular wird gleichzeitig bestätigt, dass die Geschäftsbedingungen gelesen, verstanden und  anerkannt wurden.
 
 9. Es gilt österreichisches Recht: Gerichtsstand ist Wien.
+
+
+
+### Rechtliche Grundlage
+
+- [ABGB](https://www.jusline.at/gesetz/abgb)

@@ -54,4 +54,4 @@ Hier finden Sie [Fahrpläne](https://www.wienerlinien.at/web/wiener-linien/fahrp
 
 ![SBA46-Karte](/Bilder/SBA46-Karte.png)
 
-Quelle = [Stadt Wien - Stadtkarte](https://www.wien.gv.at/stadtplan/) - Auszug
+Quelle = [Stadt Wien - Stadtkarte](https://www.wien.gv.at/stadtplan/) - [Auszug-Karte](/Bilder/SBA46-Karte.png)
