@@ -9,6 +9,8 @@ tags: [Legal, rechtliche Hinweise]
 
 *DSGVO-Datenschutzerklärung - Privacy Policy*
 
+------
+
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-3.png)
 
 

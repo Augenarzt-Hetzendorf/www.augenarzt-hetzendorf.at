@@ -8,6 +8,8 @@ sidebar_position: 50
 
 *Schadenersatz und Haftungseinschränkung/Haftungsausschluss*
 
+------
+
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-5.png)
 
 
