@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Begriffe in der Augenheilkunde
 
-![Rechtliche Hinweise](/Image-Assets/Glossar-Bild-1.png)
+![Rechtliche Hinweise](/Bilder/Glossar-Bild-1.png)
 
 
 
