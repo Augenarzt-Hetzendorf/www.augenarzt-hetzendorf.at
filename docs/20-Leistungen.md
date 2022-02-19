@@ -1,5 +1,5 @@
 ---
-id: leitungen
+id: Leitungen
 title: Leistungen 
 sidebar_position: 1
 tags: [Leistungen]
