@@ -15,7 +15,9 @@ tags: [Legal, rechtliche Hinweise]
 
 
 
-## Zusammenfassung 
+## Zusammenfassung zur Datenschutzerklärung
+
+Ihr Vertrauen in den korrekten Umgang mit Ihren Daten ist für uns eine wichtige Voraussetzung für eine erfolgreiche Zusammenarbeit. 
 
 :::note
 
@@ -33,19 +35,23 @@ Eine **Datenschutzerklärung** beschreibt,  wie Daten von einer Organisation ver
 
 
 
-## Ihre Rechte
+## Datenschutzerklärung
+
+Ihre Einwilligung trifft auf die folgenden Domains zu:  www.augenarzt-hetzendorf.at
+
+### Ihre Rechte
 
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sein könnten, haben Sie die  Möglichkeit, sich bei der Aufsichtsbehörde zu beschweren. In Österreich ist dies die [Datenschutzbehörde](https://www.dsb.gv.at/) (Barichgasse 40-42, 1030 Wien, Telefon: +43 1 52 152-0 , E-Mail: [dsb@dsb.gv.at](mailto:dsb@dsb.gv.at)).
 
 
 
-## Personenbezogene Daten, die Sie uns bekanntgeben
+### Personenbezogene Daten, die Sie uns bekanntgeben
 
 Daten, die Sie uns per E-Mail bekannt geben, werden von unseren Mitarbeiterinnen und Mitarbeitern verantwortungsvoll behandelt und nur im Sinne und zum Zweck der Anwendung genutzt. Es unterliegt dabei Ihrer freien Entscheidung, ob Sie diese Daten mitteilen möchten.
 
 
 
-## Serverlogs, Cookies, Analyse-Tool, Nutzerprofile
+### Serverlogs, Cookies, Nutzerprofile
 
 Jeder Ihrer Zugriffe auf diese Website wird in einer Protokolldatei (Serverlogs) für eine begrenzte Zeit von höchstens 90 Tagen mit  folgenden Daten gespeichert:
 
@@ -60,9 +66,13 @@ Jeder Ihrer Zugriffe auf diese Website wird in einer Protokolldatei (Serverlogs)
 - Referrer
 - Version des verwendeten http-Protokolls
 
-**Es werden keine personenbezogenen Nutzerprofile erstellt.**
+**Wir erstellen keine personenbezogenen Nutzerprofile.**
 
-Auf unserer Website wird die Open Source-Software [Matomo](https://matomo.org/) zum Erstellen von Besucherstatistiken verwendet. Diese Statistiken helfen dabei, das Angebot besser an die Bedürfnisse der Besucher auszurichten. Die Statistik ist nicht öffentlich.
+**Wir verwenden für diese Website keine Cookies** (auf den Clients). Cookies sind kleine Textdateien, die eine Website auf der Festplatte des Geräts des Nutzers platziert, damit die Website komfortabler gestaltet und das Nutzerverhalten des Nutzers aufgrund seiner Aktivitäten mit der Website  besser verstanden werden kann. 
 
-Wir verwenden für diese Website keine Cookies. 
+
+
+### Analyse-Tool - Statistiken
+
+Auf unserer Website (am Server) wird die Open Source-Software [Matomo](https://matomo.org/) zum Erstellen von Besucherstatistiken verwendet. Diese Statistiken helfen dabei, das Angebot besser an die Bedürfnisse der Besucher auszurichten. Die Statistik ist nicht öffentlich.
 
