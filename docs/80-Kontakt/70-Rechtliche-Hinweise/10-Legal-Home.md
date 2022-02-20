@@ -21,7 +21,7 @@ Weiterführende Verknüpfungen:
 1. [Allgemeinen Geschäftsbedingungen (AGBs)](/docs/Kontakt/Rechtliche-Hinweise/AGB)
 2. [Behandlungsvertrag](/docs/Kontakt/Rechtliche-Hinweise/Behandlungsvertrag)
 3. [Datenschutzerklärung (Privacy Policy)](/docs/Kontakt/Rechtliche-Hinweise/Datenschutz)
-4. [Haftungsausschluss](/docs/Kontakt/Rechtliche-Hinweise/Haftungsausschluss)
+4. [Haftungsausschluss](/docs/Kontakt/Rechtliche-Hinweise/Benutzungsbedingungen)
 5. [Impressum](/docs/Kontakt/Rechtliche-Hinweise/Impressum)  
 
 

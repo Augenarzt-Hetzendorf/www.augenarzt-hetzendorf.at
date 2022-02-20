@@ -26,7 +26,8 @@
     },
   ],
    */
-// };
+//};
+
 module.exports = {
   Sidebar10: [
     // IT-Kern-Diensteitungen - sind nicht auswählbar

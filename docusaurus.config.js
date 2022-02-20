@@ -5,16 +5,37 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
-  title: 'Augenarzt-Hetzendorf',
-  tagline: 'Schön, Sie zu sehen!',
-  url: 'https://Augenarzt-Hetzendorf.at',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'Augenarzt-Hetzendorf', // Usually your GitHub org/user name.
-  projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
+module.exports = {
+//config;
+
+ // ... Your other configurations.
+ themes: [
+   // ... Your other themes.
+   [
+     require.resolve("@easyops-cn/docusaurus-search-local"),
+     {
+       // ... Your options.
+       // `hashed` is recommended as long-term-cache of index file is possible.
+       hashed: true,
+       // For Docs using Chinese, The `language` is recommended to set to:
+       // ```
+       // language: ["en", "zh"],
+       // ```
+       // When applying `zh` in language, please install `nodejieba` in your project.
+     },
+   ],
+ ],
+
+// const config = {
+title: 'Augenarzt-Hetzendorf',
+tagline: 'Schön, Sie zu sehen!',
+url: 'https://Augenarzt-Hetzendorf.at',
+baseUrl: '/',
+onBrokenLinks: 'throw',
+onBrokenMarkdownLinks: 'warn',
+favicon: 'img/favicon.ico',
+organizationName: 'Augenarzt-Hetzendorf', // Usually your GitHub org/user name.
+projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
 
   presets: [
     [
@@ -77,6 +98,7 @@ const config = {
           },
         ],
       },
+
       footer: {
         style: 'dark',
         links: [
@@ -128,5 +150,3 @@ const config = {
       },
     }),
 };
-
-module.exports = config;

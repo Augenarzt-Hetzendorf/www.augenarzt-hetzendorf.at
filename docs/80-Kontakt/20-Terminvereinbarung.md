@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ------
 
-Sie können ganz einfach telefonisch  **+43 6707 035530** oder via [E-Mail]((mailto:ordination@augenarzt-hetzendorf.at)) einen für Sie passenden Termin vereinbaren.
+Sie können ganz einfach telefonisch  **+43 6707 035530** oder via **ordination@augenarzt-hetzendorf.at** einen für Sie passenden Termin vereinbaren.
 
 
 

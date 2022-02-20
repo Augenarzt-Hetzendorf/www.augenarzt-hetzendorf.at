@@ -1,9 +1,9 @@
 ---
-id: kontakt
-title: Kontakt 
+id: Glossar
+title: Glassar 
 sidebar_position: 1
 tags: [Adresse, Kontakt]
 ---
 
-# Kontakt
+# Glossar
 

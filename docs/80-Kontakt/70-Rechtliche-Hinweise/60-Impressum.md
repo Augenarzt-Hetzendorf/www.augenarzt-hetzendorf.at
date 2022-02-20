@@ -19,7 +19,7 @@ Ein Impressum ist in Publikationen eine gesetzlich vorgeschriebene Angabe des od
 - Name des Anbieters:  **Dr. Saskia Tipotsch**, Fachärztin für Augenheilkunde
 - Postanschrift: **Ordination Augenarzt-Hetzendorf**, Schönbrunner Allee 46/2, 1120 Wien
 - Tel. +43 6707 035530
-- email: [ordination(at)augenarzt-hetzendorf.at](ordination@augenarzt-hetzendorf.at)
+- email: [ordination(at)augenarzt-hetzendorf.at](mailto:ordination@augenarzt-hetzendorf.at)
 - web: https://www.augenarzt-hetzendorf.at
 - Aufsichtsbehörde: [Ärztekammer Wien](https://www.aekwien.at/); Mitglied der Österreichischen Ärztekammer 
 - Umsatzsteueridentifikationsnummer:
