@@ -45,8 +45,8 @@ const config = {
       navbar: {
         title: 'Augenarzt-Hetzendorf',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo Augenarzt-Hetzendorf',
+          src: 'img/favicon.ico',
         },
         items: [
             {

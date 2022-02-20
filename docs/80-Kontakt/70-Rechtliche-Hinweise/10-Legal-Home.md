@@ -1,7 +1,7 @@
 ---
 id: Legal
 sidebar_position: 10
-tags: [Legal, rechtliche Hinweise]
+tags: [Legal, rechtliche Hinweise, rechtliche Pflichten]
 ---
 
 # Rechtliche Hinweis

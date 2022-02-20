@@ -2,6 +2,7 @@
 id: Terminvereinbarung
 title: Terminvereinbarung
 sidebar_position: 1
+tags: [Kontakt, Termine]
 ---
 
 # Ordinationszeiten und Terminvereinbarung

@@ -2,6 +2,7 @@
 id: Kontakt
 title: Kontakt
 sidebar_position: 1
+tags: [Kontakt]
 ---
 
 # Kontaktdaten
@@ -12,6 +13,8 @@ sidebar_position: 1
 
 ![Kontakt-Bild](/Bilder/Kontakt-Bild-1.png)
 Bildquelle [Stadt-Wien](https://www.wien.gv.at/stadtplan/)
+
+
 
 ## Privatordination
 
