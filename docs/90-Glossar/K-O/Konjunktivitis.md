@@ -12,7 +12,7 @@ Das Auge ist stark gerötet, tränt und juckt, die Lider sind verklebt und viell
 
 Die Bindehautentzündung, auch unter dem medizinischen Fachausdruck  Konjunktivitis bekannt, ist eine der häufigsten Augenerkrankungen. Ein  Grund dafür ist die **Vielzahl an Auslösern**. Sie reichen  von mechanischen Ursachen über Bakterien und Viren bis hin zu Pilzen  oder Parasiten. Doch so unterschiedlich die Auslöser einer  Bindehautentzündung sind: Die Symptome sind immer sehr ähnlich.
 
-![Bindehaut](/Bilder/bindehautentzuendung-1.jpg)
+![Bindehaut](/Image-Assets/bindehautentzuendung-1.jpg)
 
 Bei einer Konjunktivitis ist die Bindehaut (lat. Tunica conjunctiva) entzündet, die sich im Inneren der Lider und als äußerste Schutzschicht auf dem Augapfel befindet. Sie verhindert, dass Fremdkörper und Krankheitserreger in das Auge eindringen können und sorgt für die gleichmäßige Verteilung des Tränenfilms.
 
