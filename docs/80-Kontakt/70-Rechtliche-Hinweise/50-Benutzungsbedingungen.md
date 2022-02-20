@@ -1,8 +1,7 @@
 ---
 id: Benutzungsbedingungen
-title: Benutzungsbedingungen
+title: Haftungsausschluss
 sidebar_position: 50
-tags: [Disclaimer, Legal, rechtliche Hinweise, rechtliche Pflichten]
 ---
 
 # Benutzungsbedingungen

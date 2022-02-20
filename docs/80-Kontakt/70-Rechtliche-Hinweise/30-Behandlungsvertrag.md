@@ -2,7 +2,7 @@
 id: Behandlungsvertrag
 title: Behandlungsvertrag
 sidebar_position: 30
-tags: [Legal, rechtliche Hinweise, rechtliche Pflichten]
+tags: [Legal, rechtliche Hinweise]
 ---
 
 #  Behandlungsvertrag

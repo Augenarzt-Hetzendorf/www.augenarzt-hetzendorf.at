@@ -2,7 +2,6 @@
 id: AGB
 title: AGBs
 sidebar_position: 20
-tags: [Legal, rechtliche Hinweise, rechtliche Pflichten]
 ---
 
 # Allgemeine Geschäftsbedingungen

@@ -2,7 +2,6 @@
 id: Impressum
 title: Impressum
 sidebar_position: 60
-tags: [Impressum, Legal, rechtliche Hinweise, rechtliche Pflichten]
 ---
 
 # Impressum
