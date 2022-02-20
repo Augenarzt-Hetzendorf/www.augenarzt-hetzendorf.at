@@ -25,11 +25,7 @@ Ich bin Wahlärztin. **Freie Arztwahl** bedeutet, dass sich der Patient zur Beha
 
 ### Behandlungsvertrag
 
-Die Rechtsgrundlage jeder ärztlichen Behandlung bildet der [Behandlungsvertrag](/docs/Kontakt/Rechtliche-Hinweise/Behandlungsvertrag) und die [AGBs](/docs/Kontakt/Rechtliche-Hinweise/AGB). Die Grundlage eines Behandlungsvertrages über die entgeltliche Durchführung einer medizinischen Behandlung basiert im Wesentlich auf Vertrauen und einer guten Gesprächbasis zwischen Patientin/Patienten und Ärztin/Arzt. Aufgrund des Behandlungsvertrags schuldet die Ärztin/derArzt eine fachgerechte Behandlung, jedoch in der Regel keinen Heil- oder Behandlungserfolg.
-
-### Honorar-Tarife
-
-Die Kosten einer **augenärztlichen Basisuntersuchung** betragen mind. pro Patient Euro 150,00,--. Allenfalls zusätzlich erforderliche Untersuchungen werden gesondert vereinbart und verrechnet. 
+Die Rechtsgrundlage jeder ärztlichen Behandlung bildet der Behandlungsvertrag. Die Grundlage eines Behandlungsvertrages über die entgeltliche Durchführung einer medizinischen Behandlung basiert im Wesentlich auf Vertrauen und einer guten Gesprächbasis zwischen Patientin/Patienten und Ärztin/Arzt. Aufgrund des Behandlungsvertrags schuldet die Ärztin/derArzt eine fachgerechte Behandlung, jedoch in der Regel keinen Heil- oder Behandlungserfolg.
 
 ### Abrechnung
 
@@ -49,8 +45,6 @@ Die Originalrechnung und der Zahlungsnachweis müssen innerhalb von 42 Monaten n
 Für spezielle Informationen zur Kostenerstattung, kontaktieren Sie bitte Ihren Sozialversicherungsträger oder die [Österreichische Gesundheitskasse](https://www.gesundheitskasse.at/).
 
 ------
-
-
 
 ## Belegsärztin
 

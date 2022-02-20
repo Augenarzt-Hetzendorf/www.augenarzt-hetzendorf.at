@@ -57,9 +57,3 @@ Sollte es Ihnen jedoch nicht möglich sein, den vereinbarten Termin wahrzunehmen
 
 Danke für Ihr Verständnis!
 
-
-
-## Anmeldung - Registrierung
-
-Vor jedem Behandlungstermin ist vom Patienten ein **Anmeldeformular (Registrierung)** auszufüllen und zu signieren. Die darin gemachten Angaben und personenbezogenen Daten unterliegen der ärztlichen Schweigepflicht und dem [Datenschutz](/docs/Kontakt/Rechtliche-Hinweise/Datenschutz) und werden absolut vertraulich behandelt. Mit der Unterschrift auf dem Anmeldeformular wird gleichzeitig bestätigt, dass die [Geschäftsbedingungen](/docs/Kontakt/Rechtliche-Hinweise/AGB) gelesen und der  [Behandlungsvertrag](/docs/Kontakt/Rechtliche-Hinweise/Behandlungsvertrag) verstanden und anerkannt wurden.
-

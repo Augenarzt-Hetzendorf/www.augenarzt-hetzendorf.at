@@ -6,9 +6,7 @@ sidebar_position: 60
 
 # Impressum
 
- *Impressum gemäß § 5 [E-Commerce-Gesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001703) und Medien-Gesetz*
 
-------
 
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-2.png)
 
