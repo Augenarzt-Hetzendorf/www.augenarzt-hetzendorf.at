@@ -11,13 +11,7 @@ tags: [Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 ------
 
-![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-1.png)
 
-:::info
-
-Die medizinischen Behandlungen unterliegen diesen **Behandlungsvertrag**.
-
-:::
 
 ## Behandlungsvertrag zur ambulanten Behandlung
 

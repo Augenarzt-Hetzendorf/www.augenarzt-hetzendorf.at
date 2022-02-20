@@ -15,7 +15,7 @@ tags: [Disclaimer, Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 :::info
 
-Der Zugang zu dieser Website und die Nutzung der darauf enthaltenen Information unterliegen den nachfolgenden **Benutzungsbedingungen**.
+Der Zugang zu dieser Website und die Nutzung der darauf enthaltenen Information unterliegen den nachfolgenden Bedingungen.
 
 :::
 

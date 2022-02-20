@@ -1,8 +1,8 @@
 ---
 id: Kontakt
 title: Kontakt
-sidebar_position: 80
-tags: [Adresse. Kontakt]
+sidebar_position: 1
+tags: [Kontakt]
 ---
 
 # Kontaktdaten

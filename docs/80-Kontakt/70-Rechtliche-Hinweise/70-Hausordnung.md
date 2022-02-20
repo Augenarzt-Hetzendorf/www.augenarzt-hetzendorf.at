@@ -1,6 +1,6 @@
 ---
 id: Hausordnung
-sidebar_position: 70
+sidebar_position: 10
 tags: [Hausordnung, Legal, rechtliche Hinweise, rechtliche Pflichten]
 ---
 
@@ -12,9 +12,9 @@ tags: [Hausordnung, Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-1.png)
 
-:::info
+:info
 
-**Die Hausordnung regelt das Zusammenleben aller Mitbewohner des Hauses. Sie enthält Rechte und Pflichten. Sie gilt für alle Bewohner. Ohne eine gewisse Ordnung ist das Zusammenleben mehrerer Menschen unter einem Dach nicht möglich. Alle werden sich nur dann wohlfühlen, wenn alle  Hausbewohner aufeinander Rücksicht nehmen.**
+**Die \*Hausordnung\* regelt das Zusammenleben aller Mitbewohner des Hauses. Sie enthält Rechte und Pflichten. Sie gilt für alle Bewohner. Ohne eine gewisse Ordnung ist das Zusammenleben mehrerer Menschen unter einem Dach nicht möglich. Alle werden sich nur dann wohlfühlen, wenn alle  Hausbewohner aufeinander Rücksicht nehmen.**
 
 :::
 

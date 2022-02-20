@@ -13,12 +13,6 @@ tags: [Impressum, Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-2.png)
 
-:::info
-
-Dieses Website stellt die geforderten gesetzlichen Daten im **Impressum** dar. 
-
-:::
-
 ## Zusammenfassung
 
 Ein Impressum ist in Publikationen eine gesetzlich vorgeschriebene Angabe des oder der presserechtlich für den Inhalt Verantwortlichen.

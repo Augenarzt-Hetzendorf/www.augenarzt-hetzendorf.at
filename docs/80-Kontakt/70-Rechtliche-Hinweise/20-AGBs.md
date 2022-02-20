@@ -13,11 +13,7 @@ tags: [Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-4.png)
 
-:::info
 
-Die medizinischen Behandlungen unterliegen diesen **Allgemeinen Geschäftsbedingungen (AGBs)**. 
-
-:::
 
 ## AGBs für die Privatordination Augenarzt-Hetzendorf
 

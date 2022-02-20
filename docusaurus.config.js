@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Augenarzt-Hetzendorf', // Usually your GitHub org/user name.
-  projectName: 'www.Augenarzt-Hetzendorf.at', // Usually your repo name.
+  projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main/blog',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -45,11 +45,10 @@ const config = {
       navbar: {
         title: 'Augenarzt-Hetzendorf',
         logo: {
-          alt: 'Logo_Augenarzt-Hetzendorf',
+          alt: 'Logo Augenarzt-Hetzendorf',
           src: 'img/favicon.ico',
         },
         items: [
-    // Menüpunkte
             {
                       type: 'docSidebar',
                       position: 'left',
@@ -63,14 +62,19 @@ const config = {
                       sidebarId: 'Sidebar20',
                       label: 'Leistungen',
             },
-            {
-                      type: 'docSidebar',
-                      position: 'left',
-                      sidebarId: 'Sidebar80',
-                      label: 'Kontakt',
-            },
-    // Menüüunkt zu BLOG eintrag
+
           {to: '/blog', label: 'News', position: 'left'},
+          {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          },
+          {
+                    type: 'docSidebar',
+                    position: 'left',
+                    sidebarId: 'Sidebar80',
+                    label: 'Kontakt',
+          },
         ],
       },
       footer: {

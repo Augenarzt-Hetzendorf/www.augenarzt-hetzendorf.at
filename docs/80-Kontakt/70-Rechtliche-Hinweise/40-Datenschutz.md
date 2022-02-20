@@ -13,11 +13,7 @@ tags: [DSGVO, Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-3.png)
 
-:::info
 
-Der Umgang mit personenbezogenen Daten unterliegt dieser **Datenschutzerklärung**. 
-
-:::
 
 ## Zusammenfassung 
 
