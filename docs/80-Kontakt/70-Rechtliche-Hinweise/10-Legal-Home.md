@@ -8,11 +8,7 @@ tags: [Legal, rechtliche Hinweise, rechtliche Pflichten]
 
 *Rechtliche Pflichten für Websites - Impressum, Datenschutz etc.*
 
-------
-
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-1.png)
-
-
 
 Der Zugang zur Website und die Nutzung der darauf enthaltenen Information sowie die Behandlung unterliegen den nachfolgenden Bedingungen. Informationen auf dieser Website sind nicht für natürliche oder juristische Personen bestimmt, die einer ausländischen Rechtsordnung unterliegen, welche für die Verbreitung dieser Informationen Beschränkungen vorsieht.
 
@@ -23,6 +19,7 @@ Weiterführende Verknüpfungen:
 3. [Datenschutzerklärung (Privacy Policy)](/docs/Kontakt/Rechtliche-Hinweise/Datenschutz)
 4. [Haftungsausschluss](/docs/Kontakt/Rechtliche-Hinweise/Haftungsausschluss)
 5. [Impressum](/docs/Kontakt/Rechtliche-Hinweise/Impressum)  
+6. [Hausordnung](/docs/Kontakt/Rechtliche-Hinweise/Hausordnung)
 
 
 
