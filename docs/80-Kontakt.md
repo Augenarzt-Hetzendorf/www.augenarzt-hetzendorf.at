@@ -2,6 +2,10 @@
 id: Kontakt
 title: Kontakt
 sidebar_position: 1
+<<<<<<< HEAD
+=======
+tags: [Kontakt]
+>>>>>>> parent of 8690017 (2022-02-20A Herstellung Kontakte)
 ---
 
 # Kontaktdaten
