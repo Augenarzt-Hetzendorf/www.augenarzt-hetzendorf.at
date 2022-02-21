@@ -4,28 +4,41 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
 module.exports = {
 //config;
-
- // ... Your other configurations.
+//
+ themes: ['@docusaurus/theme-live-codeblock'],
+ themes: ['theme-blog'],
+ // Bootstrap styling,
+ themes: ['theme-blog-bootstrap'],
+// Suchfunktion
  themes: [
-   // ... Your other themes.
    [
      require.resolve("@easyops-cn/docusaurus-search-local"),
      {
-       // ... Your options.
-       // `hashed` is recommended as long-term-cache of index file is possible.
+   // `hashed` is recommended as long-term-cache of index file is possible.
        hashed: true,
        // For Docs using Chinese, The `language` is recommended to set to:
-       // ```
-       // language: ["en", "zh"],
-       // ```
-       // When applying `zh` in language, please install `nodejieba` in your project.
-     },
-   ],
- ],
+       language: ["de", "en"],
+     },  ],  ],
+// Mehrsprachigkeit
+     i18n: {
+    defaultLocale: 'de',
+    locales: ['de', 'en'],
+    localeConfigs: {
+      de: {
+        htmlLang: 'de-DE',
+        direction: 'ltr',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      en: {
+        htmlLang: 'en-GB',
+        direction: 'ltr',
+      },
+    },
+  },
 
+/** @type {import('@docusaurus/types').Config} */
 // const config = {
 title: 'Augenarzt-Hetzendorf',
 tagline: 'Schön, Sie zu sehen!',
@@ -35,7 +48,7 @@ onBrokenLinks: 'throw',
 onBrokenMarkdownLinks: 'warn',
 favicon: 'img/favicon.ico',
 organizationName: 'Augenarzt-Hetzendorf', // Usually your GitHub org/user name.
-projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
+projectName: 'www.Augenarzt-Hetzendorf.at', // Usually your repo name.
 
   presets: [
     [
@@ -45,13 +58,13 @@ projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -99,11 +112,12 @@ projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
         ],
       },
 
+
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Wissenswertes',
             items: [
               {
                 label: 'Tutorial',
@@ -115,16 +129,29 @@ projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Adresse',
+                href: '/docs/Kontakt',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Ordinationszeiten',
+                href: '/docs/Kontakt/Terminvereinbarung',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/augenordination',
+              },
+            ],
+          },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Impressum',
+                to: '/docs/Kontakt/Rechtliche-Hinweise/Impressum',
+              },
+              {
+                label: 'Rechtliche-Hinweise',
+                href: '/docs/Kontakt/Rechtliche-Hinweise/Legal',
               },
             ],
           },
@@ -132,17 +159,25 @@ projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Meines Sozialversicherung',
+                to: 'https://www.meinesv.at/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Gesundheitskasse',
+                href: 'https://www.gesundheitskasse.at/',
+              },
+              {
+                label: 'Ärztekammer',
+                to: 'https://www.aekwien.at/',
+              },
+              {
+                label: 'Gesundheitskasse',
+                href: 'https://www.gesundheitskasse.at/',
               },
             ],
-          },
+        },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} by Privatordination Priv.Doz.Dr.med. Saskia Tipotsch, Augenarzt-Hetzendorf. Build and operated by tipcon KG.`,
       },
       prism: {
         theme: lightCodeTheme,

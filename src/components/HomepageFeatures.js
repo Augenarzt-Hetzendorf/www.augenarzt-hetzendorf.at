@@ -4,32 +4,38 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Vorsorgeuntersuchungen und allgemeine Diagnosen ',
+    Svg: require('/img/landing/kids-20.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Überprüfung der Sehschärfe, Sehtests und Beratung zu Brillengläsern, Alterssichtigkeit, Lesebrille.
+        Vorsorgeuntersuchungen bei Diabetes, Bluthochdruck, Glaukom, Makuladegeneration Augendruckmessung.
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Behandlung von zahlreichen Augenkrankheiten',
+    Svg: require('/img/landing/eye-20.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Untersuchung des Augenhintergrundes - der Netzhaut.
+      Messung der Hornhautdicke.
+      OCT (Okuläre Kohärenz Tomografie) zur Makula- und Sehnervendiagnostik.
+      Myopie-Kontrolle, Kontrollen und Behandlung des grauen und grünen Stars.
+      Diabetesvorsorge und -verlaufskontrolle. Makulopathievorsorge und -verlaufskontrolle.
+      Vorsorgeuntersuchung bei Rheuma, kindlichem Rheuma, JIA, Morbus Bechterew, Sarkoidose, etc.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Augenoperationen - Grüner Star, grauer Star',
+    Svg: require('../../static/img/landing/book-20.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        An der Klinik Hietzing operiere ich Grauer Star Schlupflider Lidfehlstellungen (Ektropium, Entropium) Gerstenkorn, Hagelkorn Lidtumore. 
+        In Kooperation mit der Klinik Hietzing betreue ich Sie auch rund um: Netzoperationen (Netzhautablösung, Epiretinale Membran /Gliose),
+        Netzhautveränderungen bei Diabetes (Vitrektomie, Laser, IVOM) „Feuchte“ Makuladegeneration (IVOM).
       </>
     ),
   },
