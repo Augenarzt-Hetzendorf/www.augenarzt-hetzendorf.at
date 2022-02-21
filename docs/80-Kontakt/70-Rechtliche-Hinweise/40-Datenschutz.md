@@ -14,8 +14,11 @@ tags: [Legal, rechtliche Hinweise]
 ![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-3.png)
 
 
+<<<<<<< HEAD:docs/80-Kontakt/70-Rechtliche-Hinweise/40-Datenschutz.md
 
 ## Zusammenfassung zur Datenschutzerklärung
+=======
+>>>>>>> parent of 8690017 (2022-02-20A Herstellung Kontakte):docs/80-Kontakt/70-Rechtliche-Hinweise/40-Datenschutzerklarung.md
 
 Ihr Vertrauen in den korrekten Umgang mit Ihren Daten ist für uns eine wichtige Voraussetzung für eine erfolgreiche Zusammenarbeit. 
 

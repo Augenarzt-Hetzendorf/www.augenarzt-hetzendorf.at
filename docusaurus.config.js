@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Augenarzt-Hetzendorf',
-  tagline: 'Schön, Sie zu sehen!',
-  url: 'https://Augenarzt-Hetzendorf.at',
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
+  url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Augenarzt-Hetzendorf', // Usually your GitHub org/user name.
-  projectName: 'Augenarzt-Hetzendorf', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
 
   presets: [
     [
@@ -43,37 +43,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Augenarzt-Hetzendorf',
+        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-            {
-                      type: 'docSidebar',
-                      position: 'left',
-                      sidebarId: 'Sidebar10',
-                      label: 'Über ...',
-            },
-            {
-                      type: 'docSidebar',
-                      position: 'left',
-
-                      sidebarId: 'Sidebar20',
-                      label: 'Leistungen',
-            },
-
-          {to: '/blog', label: 'News', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Tutorial',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
-          {
-                    type: 'docSidebar',
-                    position: 'left',
-                    sidebarId: 'Sidebar80',
-                    label: 'Kontakt',
           },
         ],
       },
