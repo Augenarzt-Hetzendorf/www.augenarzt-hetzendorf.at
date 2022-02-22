@@ -2,6 +2,7 @@
 id: Impressum
 title: Impressum
 sidebar_position: 60
+tags: [Legal, rechtliche Hinweise]
 ---
 
 # Impressum
@@ -10,7 +11,7 @@ sidebar_position: 60
 
 ------
 
-![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-2.png)
+![Rechtliche Hinweise](/img/teaser/Rechtliche-Hinweise-Bild-2.png)
 
 ## Zusammenfassung
 

@@ -19,9 +19,13 @@ Die **Spaltlampe** (auch: **Spaltlampenmikroskop**) ist eines der wichtigsten [o
 
 ## Geräte-Eckdaten
 
--  Produktname = OCT 
--  Hersteller = 
--  Produktinformation = [Online Produktinformation](https://www.qnap.com/de-de/product/tvs-1282t3) 
+-  Produktname = [ZEISS Spaltlampe SL 220](https://www.zeiss.de/meditec/produkte/ophthalmologie/essential-line-_-basisdiagnostik/spaltlampenuntersuchung/spaltlampen-und-zubehoer/led-spaltlampe-sl-220.html)
+-  Hersteller = [Carl Zeiss Meditec AG](https://www.zeiss.de/meditec-ag/home.html)
+-  Produktinformation = [Online Produktinformation](https://www.zeiss.de/content/dam/Meditec/de/brochures/zeiss-sl-220-datasheet-german.pdf) 
+
+
+
+![slit-lamp-220-b](/sources/devices/zeiss-spaltlampe/slit-lamp-220-b.png)
 
 
 

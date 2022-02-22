@@ -1,6 +1,7 @@
 ---
 id: Hausordnung
-sidebar_position: 10
+title: Hausordnung
+sidebar_position: 70
 tags: [Legal, rechtliche Hinweise]
 ---
 
@@ -10,9 +11,7 @@ tags: [Legal, rechtliche Hinweise]
 
 ------
 
-![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-1.png)
-
-
+![Rechtliche Hinweise](/img/teaser/Rechtliche-Hinweise-Bild-1.png)
 
 
 

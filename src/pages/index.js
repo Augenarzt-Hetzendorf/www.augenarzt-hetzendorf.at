@@ -37,36 +37,21 @@ export default function Home() {
 <main>
 
 
+ <div class="hero shadow--lw">
+  <div class="container">
+    <h1 class="hero__title">Willkommen</h1>
+    <p class="hero__subtitle">in der Privatordination Augenarzt-Hetzendorf von Priv.Doz.Dr. Saskia Tipotsch in Wien - Hetzendorf.</p>
+    <h3> Ihre erfahrene Augensärztin für Vorsorgeuntersuchungen, Uveitis, Augenoperationen und Spezialbehandlungen.</h3>
+      </div>
+ </div>
+
  <div class="alert alert--primary" role="alert">
- <button aria-label="Close" class="clean-btn close" type="button">
-  <span aria-hidden="true">×</span>  </button>
-  HINWEIS: Bitte beachten Sie die <strong>CORONA-Regeln</strong>. Bingen Sie zur Behandlung einen aktuelles Corona-Testzertifikat mit.
+   <button aria-label="Close" class="clean-btn close" type="button">
+   <span aria-hidden="true">×</span>  </button>
+   HINWEIS: Bitte beachten Sie die <strong>CORONA-Regeln</strong>. Bingen Sie zur Behandlung einen aktuelles Corona-Testzertifikat mit.
  </div>
 
         <HomepageFeatures />
-
-
-  <div class="container">  <div class="row">
-    <div class="col col--6">
-    Bild
-    </div>
-    <div class="col col--6">
-    <div class="hero shadow--lw">  <div class="container">    <h1 class="hero__title">Willkommen</h1>
-    <p class="hero__subtitle">in der Privatordination für Augenheilkunde in Wien - Hetzendorf.</p>
-   <h3> Ihre erfahrene Augensärztin für Vorsorgeuntersuchungen, Uveitis, Augenoperationen und Spezialbehandlungen.</h3>
-   <div>
-     <a class="button button--lg button--primary" href="/docs/Ueber"> Mehr über mich</a>
-   </div>
-   <p> </p>
-   <p>
-      <li> Oberätztin im Krankenhaus Hitzing </li>
-      <li> über 20 Jahre Berufserfahrung </li>
-   </p>
-    </div></div>
-    </div>
-  </div> </div>
-
-
 
  <div class="hero hero--dark">
  <div class="container">
@@ -83,6 +68,9 @@ export default function Home() {
          <li> Oberätztin im Krankenhaus Hitzing </li>
          <li> über 20 Jahre Berufserfahrung </li>
       </p>
+      <div>
+        <a class="button button--lg button--primary" href="/docs/Ueber"> Mehr über mich</a>
+      </div>
       </div>
       <div class="col col--6">
       Als <b>Wahlärztin</b> ist es mir ausgesprochen wichtig, auf die individuellen Bedürfnisse meiner PatientInnen einzugehen.
@@ -108,7 +96,7 @@ Sollten Augenoperationen notwendig sein, kann ich diese als <b>Belegsärztin</b>
        <p>
          <li> Kataraktchirurgie (Grauer Star)</li>
          <li> Lidchirurgie </li>
-        <li> Netzhautchirurgie </li>
+         <li> Netzhautchirurgie </li>
        </p>
        <div>
         <a class="button button--lg button--primary" href="/docs/Leitungen/"> Mehr zur medizinischen Leistungen </a>

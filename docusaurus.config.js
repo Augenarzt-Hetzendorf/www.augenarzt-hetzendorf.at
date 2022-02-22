@@ -6,6 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 module.exports = {
 //config;
+// Integrate Plausible Analytics with your Docusaurus documentation site.
+// Quelle https://plausible.io/docs/docusaurus-integration
+  scripts: [{src: 'https://plausible.io/js/plausible.js', defer: true, 'data-domain': 'www.Augenarzt-Hetzendorf.at'}],
 //
  themes: ['@docusaurus/theme-live-codeblock'],
  themes: ['theme-blog'],
@@ -46,7 +49,7 @@ url: 'https://Augenarzt-Hetzendorf.at',
 baseUrl: '/',
 onBrokenLinks: 'throw',
 onBrokenMarkdownLinks: 'warn',
-favicon: 'img/favicon.ico',
+favicon: 'img/branding/favicon.ico',
 organizationName: 'Augenarzt-Hetzendorf', // Usually your GitHub org/user name.
 projectName: 'www.Augenarzt-Hetzendorf.at', // Usually your repo name.
 
@@ -79,8 +82,8 @@ projectName: 'www.Augenarzt-Hetzendorf.at', // Usually your repo name.
       navbar: {
         title: 'Augenarzt-Hetzendorf',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo-Augenarzt-Hetzendorf',
+          src: 'img/branding/logo.svg',
         },
         items: [
             {
@@ -99,8 +102,8 @@ projectName: 'www.Augenarzt-Hetzendorf.at', // Usually your repo name.
 
           {to: '/blog', label: 'News', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main',
+            label: 'Source',
             position: 'right',
           },
           {

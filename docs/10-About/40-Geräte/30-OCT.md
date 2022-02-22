@@ -19,19 +19,19 @@ Der Augenarzt kann die Dicke der mehrschichtigen Netzhaut im hinteren Augenabsch
 
 ## Geräte-Eckdaten
 
--  Produktname = OCT 
+-  Produktname = Topcon 3D OCT-1 Maestro2 
 -  Hersteller = [Topcon](https://global.topcon.com/) 
--  Produktinformation = [Online Produktinformation](https://www.qnap.com/de-de/product/tvs-1282t3) 
+-  Produktinformation = [Maestro2_US_Brochure.pdf](/sources/devices/topcon-oct/Maestro2_US_Brochure.pdf) 
+
+![Topcon_Maestro2](/sources/devices/topcon-oct/Topcon_Maestro2.jpg)
 
 
 
 ## Einsatzgebiete
 
-:::info
+Für die Diagnostik folgender Augenerkrankungen kann die OCT-Technik hilfreich sein.
 
-**Für die Diagnostik folgender Augenerkrankungen kann die OCT-Technik hilfreich sein:**
 
-:::
 
 ### Makuladegeneration
 

@@ -11,7 +11,7 @@ tags: [Legal, rechtliche Hinweise]
 
 ------
 
-![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-3.png)
+![Rechtliche Hinweise](/img/teaser/Rechtliche-Hinweise-Bild-3.png)
 
 
 

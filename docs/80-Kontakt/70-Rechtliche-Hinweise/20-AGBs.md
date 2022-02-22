@@ -2,6 +2,7 @@
 id: AGB
 title: AGBs
 sidebar_position: 20
+tags: [Legal, rechtliche Hinweise]
 ---
 
 # Allgemeine Geschäftsbedingungen
@@ -10,7 +11,7 @@ sidebar_position: 20
 
 ------
 
-![Rechtliche Hinweise](/Bilder/Rechtliche-Hinweise-Bild-4.png)
+![Rechtliche Hinweise](/img/teaser/Rechtliche-Hinweise-Bild-4.png)
 
 
 
