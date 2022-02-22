@@ -1,17 +1,17 @@
 ---
 id: Konjunktivitis
-title: Bindehautentzündung
-sidebar_position: 2
-tags:
- - Augenkrankheiten
- - Bindehautentzündung
- - Brennende-Augen
- - Entzündungen
- - Geschwollene-Augenlider
- - Juckreiz
+title: Bindehautentzündung - Konjunktivitis
+sidebar_position: 20
+tags: [Augenkrankheiten, Brennende-Augen, Entzündung, geschwollene-Augenlider, Juckreiz, Nachuntersuchungen, Spaltlampe]
 ---
 
 # Konjunktivitis - Bindehautentzündung 
+
+*Umweltreize, Bakterien, Viren oder Pilze** sind typische Auslöser für eine Bindehautentzündung.*
+
+------
+
+
 
 ## Die Bindehautentzündung auf einen Blick
 
@@ -26,13 +26,15 @@ tags:
 
 ## Was ist eine Bindehautentzündung?
 
-Die Bindehautentzündung, auch unter dem medizinischen Fachausdruck  Konjunktivitis bekannt, ist eine der häufigsten Augenerkrankungen. Ein Grund dafür ist die **Vielzahl an Auslösern**. Sie reichen von mechanischen Ursachen über Bakterien und Viren bis hin zu Pilzen oder Parasiten. Doch so unterschiedlich die Auslöser einer Bindehautentzündung sind: Die Symptome sind immer sehr ähnlich.
+Die Bindehautentzündung, auch unter dem medizinischen Fachausdruck **Konjunktivitis** bekannt, ist eine der häufigsten Augenerkrankungen. Ein Grund dafür ist die **Vielzahl an Auslösern**. Sie reichen von mechanischen Ursachen über Bakterien und Viren bis hin zu Pilzen oder Parasiten. Doch so unterschiedlich die Auslöser einer Bindehautentzündung sind: Die Symptome sind immer sehr ähnlich.
 
 ![bindehautentzündung](https://www.blickcheck.de/wp-content/uploads/2017/04/hi_bindehautentzuendung-1.jpg)
 
 Bei einer Konjunktivitis ist die Bindehaut entzündet, die sich im Inneren der Lider und als äußerste Schutzschicht auf dem Augapfel befindet. Sie verhindert, dass Fremdkörper und Krankheitserreger in das Auge eindringen können und sorgt für die gleichmäßige Verteilung des Tränenfilms.
 
 Ist jedoch das Immunsystem geschwächt oder der Schutzfilm nicht intakt, haben Krankheitserreger leichtes Spiel; sie können ungehindert  eindringen und eine Bindehautentzündung hervorrufen. Besonders **Babys und Kleinkinder sind häufig betroffen**, da ihre Augen noch nicht über den vollen Schutz verfügen und sich das Immunsystem noch im Aufbau befindet. In dieser Situation reichen schon starke Zugluft oder Kälte aus, um die Bindehaut zu reizen.
+
+
 
 ## Symptome einer Bindehautentzündung
 
@@ -73,7 +75,7 @@ Die **nicht-infektiöse Konjunktivitis** tritt nach starken Reizungen des Auges 
 
 ## Diagnose einer Bindehautentzündung 
 
-Die Diagnose beinhaltet neben einer Erfassung der Vorerkrankungen auch eine Untersuchung mit einer **Spaltlampe** und die **Foto-Dokumentation** zur Überprüfung des Verlaufes. 
+Die Diagnose beinhaltet neben einer Erfassung der Vorerkrankungen auch eine Untersuchung mit einer **[Spaltlampe](/docs/About/Geräte/Spaltlampe)** und die **Foto-Dokumentation** zur Überprüfung des Verlaufes. 
 
 
 
@@ -97,5 +99,8 @@ Bei einer Konjunktivitis sollten Sie **unbedingt auf eine Behandlung mit Kamille
 
 ## Nachuntersuchungen einer Bindehautentzündung
 
-Nachuntersuchungen zu einer Bindehautentzündung in einem Abstand von ca. 1/2 Jahr werden empfohlen. Mittels der Foto-Dokumentation kann der Heilungsverlauf gut nachvollzogen werden. 
+:::info
 
+**Nachuntersuchungen** zu einer Bindehautentzündung in einem Abstand von **ca. 1/2 Jahr** werden empfohlen. Mittels der Foto-Dokumentation kann der Heilungsverlauf gut nachvollzogen werden. 
+
+:::

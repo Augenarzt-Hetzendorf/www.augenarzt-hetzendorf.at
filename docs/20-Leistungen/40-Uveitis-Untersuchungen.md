@@ -2,10 +2,16 @@
 id: UveitisUntersuchungen
 title: Uveitis-Untersuchungen
 sidebar_position: 40
-tags: [medizinische Dienstleistungen, Uveitis]
+tags: [Entzündung, medizinische Dienstleistungen, Uveitis, Uveitis-Untersuchungen]
 ---
 
 # Uveitis-Untersuchungen
+
+*entzündlichen Augenerkrankungen*
+
+------
+
+
 
 ## Das Wichtigste in Kürze
 

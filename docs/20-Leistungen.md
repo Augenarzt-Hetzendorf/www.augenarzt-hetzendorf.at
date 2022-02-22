@@ -1,8 +1,8 @@
 ---
 id: Dienstleistungen
-title: Medizinische-Dienstleistungen 
+title: Medizinische Dienstleistungen 
 sidebar_position: 1
-tags: [medizinische Dienstleistungen]
+tags: [Augenoperationen, medizinische Dienstleistungen, Notfall-Untersuchungen, Kontrolle der Sehschärfe, Vorsorge-Untersuchungen, Uveitis-Untersuchungen]
 ---
 
 # Medizinische Dienstleistungen

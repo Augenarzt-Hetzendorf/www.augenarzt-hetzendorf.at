@@ -2,7 +2,7 @@
 id: Notfalluntersuchungen
 title: Notfall-Untersuchungen
 sidebar_position: 20
-tags: [medizinische Dienstleistungen]
+tags: [medizinische Dienstleistungen, Notfall-Untersuchungen]
 ---
 
 # Notfälle - Notfall-Untersuchungen

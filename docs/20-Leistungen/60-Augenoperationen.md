@@ -7,6 +7,8 @@ tags: [Augenoperationen, medizinische Dienstleistungen]
 
 # Augenoperationen
 
+*Erfahrung - gerade bei der Augenoperation - zählt!*
+
 ## Das Wichtigste in Kürze
 
 :::info

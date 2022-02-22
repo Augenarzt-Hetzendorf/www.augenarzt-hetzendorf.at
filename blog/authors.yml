@@ -1,17 +1,12 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+saskia:
+  name: Dr. Saskia Tipotsch
+  title: Priv.Doz.Dr.med.
+  url: https://www.xing.com/profile/Saskia_Tipotsch
+  image_url: https://profile-images.xing.com/images/3e38016c521b37fded5845ea0ee0a191-4/saskia-tipotsch.256x256.jpg
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+chris:
+  name: Dr. Chris Tipotsch
+  title: Di Dr.tech Engineer
+  url: https://www.xing.com/profile/Chris_TIPOTSCH
+  image_url: https://secure.gravatar.com/avatar/d5621d8504ff60861bf8d1da16273498
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png

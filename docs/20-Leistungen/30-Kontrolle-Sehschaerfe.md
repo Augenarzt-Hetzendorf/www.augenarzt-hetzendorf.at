@@ -7,6 +7,12 @@ tags: [medizinische Dienstleistungen, Kontrolle, Sehschärfe, Vorbeugung]
 
 # Kontrolle der Sehschärfe
 
+*Bestimmung für Brillen- und/oder Kontaktlinsen*
+
+------
+
+
+
 ## Das Wichtigste in Kürze
 
 - Die regelmäßige Untersuchung beim Augenarzt ermöglicht es, Augenkrankheiten frühzeitig zu erkennen, zu behandeln und somit größere Schäden der Sehkraft zu verhindern.

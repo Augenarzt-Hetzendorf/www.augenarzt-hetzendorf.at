@@ -1,17 +1,25 @@
 ---
 id: Makuladegeneration
 title: Makuladegeneration
-sidebar_position: 2
+sidebar_position: 30
+tags: [Augenkrankheiten, Nachuntersuchungen, Verminderung der Sehschärfe, Spaltlampe]
 ---
 
 # Makuladegeneration
 
+*altersbedingte Makuladegeneration (AMD)*
+
+------
+
+
+
 ## Die Makuladegeneration auf einen Blick
 
-- Unbehandelt führt die Makuladegeneration in vielen Fällen zum Verlust der Sehkraft.
-- Mit ausgewogener Ernährung und einem gesunden Lebensstil können Sie das Risiko einer Erkrankung verringern.
-- Bemerken Sie Symptome wie das Sehen von verzerrten Linien und Ausfälle im Gesichtsfeld, suchen Sie sofort einen Augenarzt auf.
-- Gehen Sie ab Ihrem 50. Lebensjahr regelmäßig zu Vorsorgeuntersuchungen.
+:::danger
+
+<h2>Unbehandelt führt die Makuladegeneration in vielen Fällen zum Verlust der Sehkraft. </h2>
+
+:::
 
 :::info
 
@@ -21,6 +29,12 @@ sidebar_position: 2
 - **Therapie**: 
 
 :::
+
+- Mit ausgewogener Ernährung und einem gesunden Lebensstil können Sie das Risiko einer Erkrankung verringern.
+- Bemerken Sie Symptome wie das Sehen von verzerrten Linien und Ausfälle im Gesichtsfeld, suchen Sie sofort einen Augenarzt auf.
+- Gehen Sie ab Ihrem 50. Lebensjahr regelmäßig zu [Vorsorgeuntersuchungen](/docs/Leistungen/Vorsorgeuntersuchungen).
+
+
 
 ## Was ist eine Makuladegeneration?
 
@@ -38,6 +52,8 @@ Bei der altersbedingten Makuladegeneration unterscheidet man entsprechend ihres 
 - **Feuchte Makuladegeneration** Diese wesentlich aggressivere, schnell fortschreitende Variante entwickelt sich bei ungefähr 15% der Betroffenen aus einer trockenen AMD. Sie entsteht, weil als Reaktion auf die Ablagerungen neue, poröse Gefäße aus der Aderhaut in die Netzhaut wachsen. Durch das Austreten von Blut und Gefäßflüssigkeit schwillt die Netzhaut an und kann sogar vernarben, wodurch die Sehzellen zugrunde gehen.
 
 Da ausschließlich die Makula betroffen ist, droht keine vollständige Erblindung, **das periphere Sehen funktioniert weiterhin**. Allerdings ist der Rest der Netzhaut im Vergleich zur Makula nur mit  einem Bruchteil an Fotorezeptoren (vor allem Stäbchen) ausgestattet und nimmt nur Umrisse und Hell-Dunkel-Kontraste wahr. So kommt es, dass sich Betroffene noch grob in ihrer Umgebung orientieren können und vor allem im Anfangsstadium der Erkrankung bei Dunkelheit besser sehen.
+
+
 
 ## Symptome einer Makuladegeneration
 
@@ -94,5 +110,8 @@ Verbessert sich die Makuladegeneration nach der Behandlung nicht, gibt es versch
 
 ## Nachuntersuchungen einer Makuladegeneration
 
-Nachuntersuchungen zu einer Hornhautentzündung in einem Abstand von ca. 1/2 Jahr werden empfohlen. Mittels der Foto-Dokumentation kann der Heilungsverlauf gut nachvollzogen werden. 
+:::info
 
+**Nachuntersuchungen** zu einer Hornhautentzündung in einem Abstand von **ca. 1/2 Jahr** werden empfohlen. Mittels der Foto-Dokumentation kann der Heilungsverlauf gut nachvollzogen werden. 
+
+:::

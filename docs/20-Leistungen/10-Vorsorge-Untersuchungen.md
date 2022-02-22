@@ -11,21 +11,25 @@ tags: [medizinische Dienstleistungen]
 
 ------
 
+
+
 ## Das Wichtigste in Kürze
+
+:::info
+
+<h2>Eine regelmäßige Vorsorgeuntersuchung beim Augenarzt ist wichtig und sollte ab dem 50. Lebensjahr jährlich erfolgen. </h2>
+
+:::
 
 - Die **regelmäßige Untersuchung beim Augenarzt** ermöglicht es, **Augenkrankheiten frühzeitig zu erkennen**, zu behandeln und somit größere Schäden der Sehkraft zu verhindern.
 - Augenärzte empfehlen **ab dem 40. Lebensjahr eine regelmäßige Glaukom-Vorsorgeuntersuchung** (Grüner Star).
-- Augenärzte empfehlen **ab dem 60. Lebensjahr eine regelmäßige AMD-Vorsorgeuntersuchung** (altersbedingten Makuladegeneration).
+- Augenärzte empfehlen **ab dem 50. Lebensjahr eine regelmäßige AMD-Vorsorgeuntersuchung** (altersbedingten Makuladegeneration).
 
 
 
 ## Einleitung 
 
-:::info
-
 Mit einer regelmäßigen Vorsorgeuntersuchung beim Augenarzt **gehen Sie sicher, alles dafür zu tun, um Ihr Augenlicht bis ins hohe Alter hinein zu behalten.** Lesen Sie hier, welche Augenvorsorgeuntersuchungen es gibt und wann diese empfohlen werden. **Die Augen sind eines der wichtigsten, aber auch eines der empfindlichsten Sinnesorgane des Menschen.** 
-
-:::
 
 
 

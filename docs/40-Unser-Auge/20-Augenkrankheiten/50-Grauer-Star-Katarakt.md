@@ -1,32 +1,43 @@
 ---
 id: Katarakt
-title: Grauer Star
-sidebar_position: 6
+title: Grauer Star - Katarakt
+sidebar_position: 50
+tags: [Augenkrankheiten, Augenoperation, Nachuntersuchungen]
 ---
 
 # Katarakt - Grauer Star
 
+*Eintrübung der Augenlinse*
+
+------
+
+
+
 ## Der Grauer Star auf einen Blick
+
+:::info
+
+- **Symptome**: Verschleiertes Sehen, Verminderte Sehschärfe, Zunehmende Kurzsichtigkeit.
+- **Ursachen**: fortschreitender Alterung funktionieren die Stoffwechselprozesse der Linse.
+- **Untersuchungen**: Spaltlampe und die Foto-Dokumentation 
+- **Therapie**: xx
+
+:::
 
 - Grauer Star macht sich durch fortschreitende Verschleierung des Blicks bemerkbar und kann zur Erblindung führen.
 - Es gibt weder Maßnahmen zur Vorbeugung noch wirksame Medikamente.
 - In einer Routine-OP wird die Augenlinse durch ein Kunststoffimplantat ersetzt.
 - Suchen Sie bei Verschlechterung Ihres Sehvermögens so früh wie möglich einen Augenarzt auf.
 
-:::info
 
-- **Symptome**: Verschleiertes Sehen, Verminderte Sehschärfe, Zunehmende Kurzsichtigkeit.
-- **Ursachen**: fortschreitender Alterung funktionieren die Stoffwechselprozesse der Linse.
-- **Untersuchungen**: xx.
-- **Therapie**: xx
-
-:::
 
 ## Was ist der Grauer Star?
 
 Die Katarakt, wie der Graue Star medizinisch genannt wird, ist eine Erkrankung der Augenlinse, bei der sich diese allmählich immer stärker eintrübt. Der Begriff Katarakt kommt aus dem Altgriechischen und bedeutet so viel wie  „Wasserfall“. Er wurde geprägt, weil man früher annahm, dass in der Linse herabfließende Flüssigkeiten die Verschleierung der Sicht  hervorrufen. Heute weiß man, dass die Linsentrübung unterschiedliche Ursachen haben kann. Jede dieser Ursachen bewirkt eine **Stoffwechselstörung, die dazu führt, dass sich bestimmte Substanzen in der Linse ablagern**. Die Sicht wird undeutlich und die Linse kann sich bis zur völligen Erblindung eintrüben. Doch dank bestimmter Operationsmethoden kann ein  Grauer Star heute ohne große Risiken und weitgehend schmerzfrei beseitigt werden.
 
 Prinzipiell kann Grauer Star in jedem Alter auftreten. Ab dem 60.  Lebensjahr steigt die Wahrscheinlichkeit einer Erkrankung stark an, da die **Leistungsfähigkeit der Linse im Alter naturgemäß nachlässt**. Die Linse ist dann weniger elastisch, verhärtet zunehmend und trübt  schließlich mehr und mehr ein. Aus diesem Grund ist der sogenannte  Altersstar mit Abstand die häufigste Form einer Katarakt. Doch ein Grauer Star tritt auch bei weitaus jüngeren Menschen auf, in seltenen Fällen ist er sogar angeboren.
+
+
 
 ## Symptome des Grauer Stars
 
@@ -40,7 +51,7 @@ Neben der charakteristischen Eintrübung des Blicks hat ein Grauer Star weitere 
 - Verminderte Sehschärfe
 - Sichtbare Verfärbung der Augenlinse (erst im fortgeschrittenen Stadium)
 
-Die Symptome des Grauen Star können sich bei den Betroffenen stark  unterscheiden und schreiten unterschiedlich schnell voran. Sobald Sie  bemerken, dass sich Ihr Sehen dauerhaft verschlechtert, sollten Sie **unbedingt einen Augenarzt** aufsuchen. Nur er kann die richtige Diagnose stellen und entsprechende Behandlungen und Therapien einleiten.
+Die Symptome des Grauen Star können sich bei den Betroffenen stark unterscheiden und schreiten unterschiedlich schnell voran. Sobald Sie  bemerken, dass sich Ihr Sehen dauerhaft verschlechtert, sollten Sie **unbedingt einen Augenarzt** aufsuchen. Nur er kann die richtige Diagnose stellen und entsprechende Behandlungen und Therapien einleiten.
 
 
 
@@ -52,6 +63,8 @@ Ursächlich für die Linsentrübung beim Grauen Star sind verschiedene Stoffe un
 - **Sekundäre Katarakt**: Von dieser Form spricht man,  wenn ein Grauer Star als Begleiterscheinung einer bereits  diagnostizierten Stoffwechselerkrankung auftritt. Der häufigste Auslöser ist ein Diabetes mellitus, in dessen Folge die Zuckerkonzentration des  Augenwassers erhöht ist. In der Linse wird Glukose eingelagert, welche  Flüssigkeit bindet und ein Quellen der Linse verursacht.
 - **Grauer Star nach physikalischer Fremdeinwirkung**:  Hier wird die Augenlinse von außen durch Verletzungen, Strahlen oder  auch Strom geschädigt. Das kann zum Beispiel durch eine Prellung des  gesamten Augapfels (bei Schlägereien oder Sportunfällen), durch UV-,  Röntgen- oder Infrarotstrahlung oder auch durch das Eindringen von  Fremdkörpern geschehen, beispielsweise aufgrund von Arbeitsunfällen.  Wird die Linse auf diese Weise beschädigt, tritt Flüssigkeit ein und  führt so zur Quellung und Eintrübung.
 - **Angeborener Grauer Star**: Kommen Neugeborene bereits mit einer Katarakt auf die Welt, ist der Grund dafür häufig eine  Erbkrankheit. Doch auch Infektionen während der Schwangerschaft, zum  Beispiel mit Röteln oder Toxoplasmose, kommen als Ursache infrage.
+
+
 
 ## Diagnose eines Katarakts
 

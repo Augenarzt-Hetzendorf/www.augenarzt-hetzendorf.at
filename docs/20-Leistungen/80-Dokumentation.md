@@ -2,7 +2,7 @@
 id: Digitale-Dokumentation
 title: Digitale Dokumentation
 sidebar_position: 80
-tags: [Dokumentation, medizinische Dienstleistungen]
+tags: [Dokumentation, medizinische Dienstleistungen, Nachuntersuchungen]
 ---
 
 # Augendokumentation
@@ -20,6 +20,12 @@ tags: [Dokumentation, medizinische Dienstleistungen]
 Die digitale Erfassung, die Speicherung der Untersuchungs- und Messdaten sowie die Bereitstellung ermöglicht dabei genau Analyse von Veränderungen durchzuführen. Die Grundvoraussetzung ist dabei eine digitale Dokumentation der Befundungen. 
 
 :::
+
+Die Foto-Dokumentation wird für Nachuntersuchungen bei
+
+- Makuladegeneration
+
+verwendet. 
 
 
 

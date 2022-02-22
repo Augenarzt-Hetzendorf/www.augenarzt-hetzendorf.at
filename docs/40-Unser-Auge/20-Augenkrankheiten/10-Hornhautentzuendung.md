@@ -1,17 +1,21 @@
 ---
 id: Keratitis 
-title: Hornhautentzündung 
-sidebar_position: 2
-tags:
- - Entzündung
- - Hornhautentzündung 
+title: Hornhautentzündung - Keratitis
+sidebar_position: 10
+tags: [Augenkrankheiten, Entzündung, Hornhautentzündung]
 ---
 
 # Keratitis - Hornhautentzündung 
 
+*Entzündung von eine oder mehrere Schichten der Hornhaut (Cornea)*
+
 ------
 
+:::caution
 
+<h2>Wird die Hornhautentzündung nicht therapiert, kann dies zu einem dauerhaften Sehverlust führen.</h2>
+
+:::
 
 ## Die Hornhautentzündung auf einen Blick
 
@@ -28,15 +32,13 @@ tags:
 
 ## Was ist eine Hornhautentzündung?
 
-Bei einer Hornhautentzündung – fachsprachlich Keratitis genannt – sind **eine oder mehrere Schichten der Hornhaut (Cornea) entzündet**. Man unterscheidet zwischen der <u>bakteriellen Keratitis</u>, einer <u>durch Viren hervorgerufenen Keratitis</u> und der <u>durch Pilze verursachten Hornhautentzündung</u>. 
+Bei einer Hornhautentzündung – fachsprachlich **Keratitis** genannt – sind **eine oder mehrere Schichten der Hornhaut (Cornea) entzündet**. Man unterscheidet zwischen der <u>bakteriellen Keratitis</u>, einer <u>durch Viren hervorgerufenen Keratitis</u> und der <u>durch Pilze verursachten Hornhautentzündung</u>. 
 
-Die **unterschiedlichen Ursachen sorgen für ebenso verschiedene Krankheitsverläufe**. Das Risiko für eine Hornhautentzündung steigt, wenn die Hornhaut bereits vorgeschädigt ist. Denn eine gesunde Hornhaut verfügt in der Regel über ein Abwehrsystem, das Krankheitserreger zuverlässig abblockt. Leidet man unter einer Hornhautentzündung, besteht die Gefahr, dass sich eine damit verbundene Infektion auf umliegende Strukturen ausweitet, zum Beispiel auf die Bindehaut oder die Iris. 
+Die **unterschiedlichen Ursachen sorgen für ebenso verschiedene Krankheitsverläufe**. Das Risiko für eine Hornhautentzündung steigt, wenn die Hornhaut bereits vorgeschädigt ist. Denn eine gesunde Hornhaut verfügt in der Regel über ein Abwehrsystem, das Krankheitserreger zuverlässig abblockt. 
 
-:::caution
+Leidet man unter einer Hornhautentzündung, besteht die Gefahr, dass sich eine damit verbundene Infektion auf umliegende Strukturen ausweitet, zum Beispiel auf die Bindehaut oder die Iris. 
 
-Wird die Hornhautentzündung nicht therapiert, kann dies zu einem dauerhaftem Sehverlust führen.
 
-:::
 
 ## Symptome einer Hornhautentzündung
 

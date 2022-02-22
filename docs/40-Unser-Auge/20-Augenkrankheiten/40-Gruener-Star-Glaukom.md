@@ -1,46 +1,57 @@
 ---
 id: Glaukom
-title: Grüner Star
-sidebar_position: 2
+title: Grüner Star - Glaukom
+sidebar_position: 40
+tags: [Augenkrankheiten, Nachuntersuchungen]
 ---
 
 # Glaukom - Grüner Star 
 
+*Viele Formen des Glaukoms verlaufen ohne Symptome.*
+
+------
+
+
+
 ## Der Grüner Star auf einen Blick
+
+:::caution
+
+<h2>Unbehandelt führt sie zur irreparablen Schädigung des Sehnervs und damit zur Erblindung. </h2>
+
+:::
+
+
+
+:::info
+
+- **Symptome**: Schmerzen, gerötete oder verklebte Augen, Sehschwäche. Viele Formen des Glaukoms verlaufen ohne Symptome.
+- **Ursachen**: x
+- **Untersuchungen**: Spaltlampe, Fotodokumentation für Analysen.
+- **Therapie**: x
+
+:::
 
 - Ein Grüner Star zerstört die Nervenfaser des Sehnervs irreparabel und führt unbehandelt zur Erblindung.
 - Abgesehen vom Glaukomanfall verläuft die Krankheit zunächst ohne erkennbare Symptome.
 - Augenärzte raten zur jährlichen Vorsorgeuntersuchung ab dem 40. Lebensjahr.
 - Das Glaukom wird dauerhaft mit Augentropfen behandelt oder operativ beseitigt.
 
-:::info
 
-- **Symptome**: Schmerzen, gerötete oder verklebte Augen, Sehschwäche.
-- **Ursachen**: x
-- **Untersuchungen**: Fotodokumentation für Analysen.
-- **Therapie**: x
-
-:::
 
 ## Was ist der Grüner Star ?
 
-Ein Grüner Star oder Glaukom ist eine heimtückische Augenkrankheit, denn einige Varianten können sich OHNE erkennbare Symptome entwickeln. 
-
-:::caution
-
-Unbehandelt führt sie zur irreparablen Schädigung des Sehnervs und damit zur Erblindung. 
-
-:::
-
-Hier erfahren Sie alles über die  unterschiedlichen Krankheitsformen, welche Ursachen sie haben, wie die Früherkennung funktioniert und wie ein Glaukom behandelt werden kann.
+Ein Grüner Star oder Glaukom ist eine heimtückische Augenkrankheit, denn einige Varianten können sich OHNE erkennbare Symptome entwickeln. Unbehandelt führt sie zur irreparablen Schädigung des Sehnervs und damit zur Erblindung. Hier erfahren Sie alles über die unterschiedlichen Krankheitsformen, welche Ursachen sie haben, wie die Früherkennung funktioniert und wie ein Glaukom behandelt werden kann.
 
 ![grüner star](https://www.blickcheck.de/wp-content/uploads/2017/04/hi_gruener_star-3.jpg)
 
 
 
-Die medizinisch korrekte Bezeichnung für den Grünen Star ist Glaukom. Sie wird bevorzugt verwendet, um die Krankheit besser vom Grauen Star abgrenzen zu können. Denn trotz der Namensähnlichkeit bestehen zwischen diesen beiden Erkrankungen erhebliche Unterschiede. Symptome des Grauen Stars bemerkt jeder Betroffene selbst und die Sehkraft kann selbst im  fortgeschrittenen Stadium durch die Implantation einer Intraokularlinse  aus Kunststoff erhalten beziehungsweise wiederhergestellt werden. Im Gegensatz dazu verläuft ein Grüner Star oft ohne Symptome. Die **Beeinträchtigungen des Sichtfeldes machen sich erst bemerkbar, wenn der Sehnerv bereits geschädigt ist**; sie können nicht rückgängig gemacht werden.
+Die medizinisch korrekte Bezeichnung für den Grünen Star ist **Glaukom**. Sie wird bevorzugt verwendet, um die Krankheit besser vom Grauen Star abgrenzen zu können. Denn trotz der Namensähnlichkeit bestehen zwischen diesen beiden Erkrankungen erhebliche Unterschiede. Symptome des Grauen Stars bemerkt jeder Betroffene selbst und die Sehkraft kann selbst im fortgeschrittenen Stadium durch die Implantation einer Intraokularlinse  aus Kunststoff erhalten beziehungsweise wiederhergestellt werden. Im Gegensatz dazu verläuft ein Grüner Star oft ohne Symptome. Die **Beeinträchtigungen des Sichtfeldes machen sich erst bemerkbar, wenn der Sehnerv bereits geschädigt ist**; sie können nicht rückgängig gemacht werden.
 
 Betroffene bemerken die Ausfälle ihres Gesichtsfeldes oft erst viel zu spät. Das liegt daran, dass zunächst nur die Randbereiche betroffen sind und das gesündere Auge die Sehstörung bis zu einem gewissen Grad ausgleicht. Außerdem **verläuft ein Glaukom ohne Symptome oder Schmerzen** – eine Ausnahme bilden akute Formen wie ein Glaukomanfall. Als Grund für das Schwinden der Sehkraft kommen bei allen Erkrankungen, die als Grüner Star bezeichnet werden, nur drei Möglichkeiten infrage.  Sie werden von einem stark erhöhten Augeninnendruck, einer schlechten  Durchblutung (geringem Perfusionsdruck) oder einer Kombination aus beidem verursacht.
+
+
 
 ## Symptome des Grüner Stars
 
@@ -53,9 +64,11 @@ Deshalb verstreicht bis zur Entdeckung der Krankheit oft wertvolle Zeit, da die 
 
 :::tip
 
-Aus diesem Grund ist die **regelmäßige Vorsorgeuntersuchung beim Augenarzt** wichtig. Sie sollte spätestens ab dem 40. Lebensjahr einmal jährlich  stattfinden, denn ab diesem Alter steigt die Gefahr einer  Glaukom-Erkrankung deutlich an.
+Aus diesem Grund ist die **regelmäßige [Vorsorgeuntersuchung](/docs/Leistungen/Vorsorgeuntersuchungen) beim Augenarzt** wichtig. Sie sollte spätestens **ab dem 40. Lebensjahr einmal jährlich**  stattfinden, denn ab diesem Alter steigt die Gefahr einer Glaukom-Erkrankung deutlich an.
 
 :::
+
+
 
 ## Ursachen und Risikofaktoren des Grüner Stars
 
@@ -63,10 +76,12 @@ Für die optimale Funktion des Auges ist die stabile Form des Augapfels sehr wic
 
 Da zahlreiche Erkrankungen unter dem Krankheitsbild zusammengefasst werden, kann ein Grüner Star verschiedene Ursachen haben:
 
-- **Primäres Offenwinkel-Glaukom**: Dieses  Offenwinkel-Glaukom ist die häufigste Form des Grünen Stars. Rund 90  Prozent aller Betroffenen leiden darunter. Es tritt nicht als  Folgeerscheinung anderer Krankheiten auf, sondern entsteht ab dem 40. Lebensjahr. Degenerative Veränderungen behindern den Abfluss des Kammerwassers im Bereich des Kammerwinkels. Auch Normal- und  Niedrigdruckglaukome, bei denen das Kammerwasser aufgrund eines niedrigen Blutdrucks im Sehnervenkopf zu viel Druck auf die Nervenfaser  ausübt, gehören in diese Kategorie. Diese Art des Glaukoms kann nach  Entwicklungsstörungen in der Schwangerschaft auch angeboren sein.
+- **Primäres Offenwinkel-Glaukom**: Dieses Offenwinkel-Glaukom ist die häufigste Form des Grünen Stars. Rund 90  Prozent aller Betroffenen leiden darunter. Es tritt nicht als  Folgeerscheinung anderer Krankheiten auf, sondern entsteht ab dem 40. Lebensjahr. Degenerative Veränderungen behindern den Abfluss des Kammerwassers im Bereich des Kammerwinkels. Auch Normal- und  Niedrigdruckglaukome, bei denen das Kammerwasser aufgrund eines niedrigen Blutdrucks im Sehnervenkopf zu viel Druck auf die Nervenfaser  ausübt, gehören in diese Kategorie. Diese Art des Glaukoms kann nach  Entwicklungsstörungen in der Schwangerschaft auch angeboren sein.
 - **Sekundäres Offenwinkel-Glaukom**: In dieser Variante  wird das Glaukom von einer anderen Augenerkrankung verursacht. Gründe  für die Entstehung können Augenentzündungen wie Uveitis, Tumore oder die Folgen eines Diabetes mellitus sein.
-- **Engwinkel-Glaukom**: Auch bei dieser Form des  Glaukoms wird das Kammerwasser am Abfließen gehindert. Dafür ist jedoch  eine Verengung zwischen Iris und Hornhaut vor dem Kammerwinkel  verantwortlich. Diese Verengung variiert, sie hängt mit der Tätigkeit  von Pupille und Iris zusammen. Je weiter die Pupille ist, umso enger ist der Kammerwinkel und umso höher der Augeninnendruck. Das Engwinkel-Glaukom ist besonders schwer zu diagnostizieren, da die für  den Arzt erkennbaren Symptome nur bei Dunkelheit auftreten.
-- **Winkelblock-Glaukom/Glaukomanfall**: Dieses Glaukom  ist eine akute Variante des Engwinkel-Glaukoms. Es kommt zum  vollständigen Verschluss des Kammerwinkels (Winkelblocks) durch die  Regenbogenhaut, in dessen Folge der Augeninnendruck stark ansteigt. In  diesem besonderen Fall ist ein Grüner Star von deutlichen Symptomen  begleitet. Dazu gehören die Verhärtung des Augapfels, gerötete Augen,  starke Augen- und Kopfschmerzen und häufig auch Übelkeit und Erbrechen. Die Sehschärfe lässt schlagartig nach, die Pupille reagiert kaum noch  auf Licht. Ein Glaukomanfall ist immer ein Notfall, bei dem ein Facharzt so schnell wie möglich die entsprechenden Behandlungsschritte einleiten muss.
+- **Engwinkel-Glaukom**: Auch bei dieser Form des Glaukoms wird das Kammerwasser am Abfließen gehindert. Dafür ist jedoch  eine Verengung zwischen Iris und Hornhaut vor dem Kammerwinkel  verantwortlich. Diese Verengung variiert, sie hängt mit der Tätigkeit  von Pupille und Iris zusammen. Je weiter die Pupille ist, umso enger ist der Kammerwinkel und umso höher der Augeninnendruck. Das Engwinkel-Glaukom ist besonders schwer zu diagnostizieren, da die für  den Arzt erkennbaren Symptome nur bei Dunkelheit auftreten.
+- **Winkelblock-Glaukom/Glaukomanfall**: Dieses Glaukom ist eine akute Variante des Engwinkel-Glaukoms. Es kommt zum  vollständigen Verschluss des Kammerwinkels (Winkelblocks) durch die  Regenbogenhaut, in dessen Folge der Augeninnendruck stark ansteigt. In  diesem besonderen Fall ist ein Grüner Star von deutlichen Symptomen  begleitet. Dazu gehören die Verhärtung des Augapfels, gerötete Augen,  starke Augen- und Kopfschmerzen und häufig auch Übelkeit und Erbrechen. Die Sehschärfe lässt schlagartig nach, die Pupille reagiert kaum noch  auf Licht. Ein Glaukomanfall ist immer ein Notfall, bei dem ein Facharzt so schnell wie möglich die entsprechenden Behandlungsschritte einleiten muss.
+
+
 
 ## Diagnose des Glaukom 
 

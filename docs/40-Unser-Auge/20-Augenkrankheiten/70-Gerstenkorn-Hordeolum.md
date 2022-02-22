@@ -1,10 +1,15 @@
 ---
-id: Hornhautentzündung 
-title: Hornhautentzündung 
-sidebar_position: 2
+id: Hordeolum
+title: Gerstenkorn - Hordeolum
+sidebar_position: 70
+tags: [Augenkrankheiten, Augenoperation, Nachuntersuchungen]
 ---
 
-# Krankheit 
+# Hordeolum - Gerstenkorn am Auge
+
+------
+
+
 
 ## Die  auf einen Blick
 
@@ -61,6 +66,6 @@ Werange unbehandelt lässt, riskiert eine Hornhaut-Transplantation.
 
 
 
-## Nachuntersuchungen einer Hornhautentzündung
+## Nachuntersuchungen 
 
-Nachuntersuchungen zu einer Hornhautentzündung in einem Abstand von ca. 1/2 Jahr werden empfohlen. Mittels der Foto-Dokumentation kann der Heilungsverlauf gut nachvollzogen werden. 
+xxx

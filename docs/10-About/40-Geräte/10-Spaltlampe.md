@@ -2,7 +2,7 @@
 id: Spaltlampe
 title: Spaltlampe 
 sidebar_position: 1
-tags: [medizinisch Geräte, Technik]
+tags: [medizinisch Geräte, Spaltlampe, Technik]
 ---
 
 # Spaltlampe
