@@ -1,10 +1,15 @@
 ---
-id: Notfaelle
-title: Notfälle
-sidebar_position: 8
+id: Notfalluntersuchungen
+title: Notfall-Untersuchungen
+sidebar_position: 20
+tags: [medizinische Dienstleistungen]
 ---
 
-# Notfälle
+# Notfälle - Notfall-Untersuchungen
+
+*Notfälle behandeln und Genesung begleiten*
+
+
 
 ## Das Wichtigste in Kürze
 

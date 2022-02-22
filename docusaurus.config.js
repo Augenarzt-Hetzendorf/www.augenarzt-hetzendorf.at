@@ -99,19 +99,32 @@ projectName: 'www.Augenarzt-Hetzendorf.at', // Usually your repo name.
                       sidebarId: 'Sidebar20',
                       label: 'Leistungen',
             },
+            {
+                      type: 'docSidebar',
+                      position: 'left',
+
+                      sidebarId: 'Sidebar40',
+                      label: 'Unser Auge',
+            },
 
           {to: '/blog', label: 'News', position: 'left'},
-          {
-            href: 'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main',
-            label: 'Source',
-            position: 'right',
-          },
           {
                     type: 'docSidebar',
                     position: 'left',
                     sidebarId: 'Sidebar80',
                     label: 'Kontakt',
           },
+          {
+            href: 'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main',
+            label: 'Source',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/Augenarzt-Hetzendorf/www.augenarzt-hetzendorf.at/tree/main',
+            label: 'Source',
+            position: 'right',
+          },
+
         ],
       },
 

@@ -1,37 +1,47 @@
 ---
 id: Vorsorgeuntersuchungen
-title: Untersuchungen
-sidebar_position: 2
+title: Vorsorge-Untersuchungen
+sidebar_position: 10
+tags: [medizinische Dienstleistungen]
 ---
 
-# (Vorsorge-)Untersuchungen
+# Vorsorge-Untersuchungen
+
+*Augenkrankheiten frühzeitig erkennen, behandeln und somit größere Schäden der Sehkraft verhindern*
+
+------
 
 ## Das Wichtigste in Kürze
 
-- Die regelmäßige Untersuchung beim Augenarzt ermöglicht es, Augenkrankheiten frühzeitig zu erkennen, zu behandeln und somit größere Schäden der Sehkraft zu verhindern.
-- Augenärzte empfehlen ab dem 40. Lebensjahr eine regelmäßige Glaukom- und ab dem 60. Lebensjahr eine regelmäßige AMD-Vorsorgeuntersuchung.
+- Die **regelmäßige Untersuchung beim Augenarzt** ermöglicht es, **Augenkrankheiten frühzeitig zu erkennen**, zu behandeln und somit größere Schäden der Sehkraft zu verhindern.
+- Augenärzte empfehlen **ab dem 40. Lebensjahr eine regelmäßige Glaukom-Vorsorgeuntersuchung** (Grüner Star).
+- Augenärzte empfehlen **ab dem 60. Lebensjahr eine regelmäßige AMD-Vorsorgeuntersuchung** (altersbedingten Makuladegeneration).
 
 
 
 ## Einleitung 
 
-Mit einer regelmäßigen Vorsorgeuntersuchung beim Augenarzt gehen Sie sicher, alles dafür zu tun, um Ihr Augenlicht bis ins hohe Alter hinein zu behalten. Lesen Sie hier, welche  Augenvorsorgeuntersuchungen es gibt und wann diese empfohlen werden. Die Augen sind eines der wichtigsten, aber auch eines der empfindlichsten Sinnesorgane des Menschen. 
+:::info
+
+Mit einer regelmäßigen Vorsorgeuntersuchung beim Augenarzt **gehen Sie sicher, alles dafür zu tun, um Ihr Augenlicht bis ins hohe Alter hinein zu behalten.** Lesen Sie hier, welche Augenvorsorgeuntersuchungen es gibt und wann diese empfohlen werden. **Die Augen sind eines der wichtigsten, aber auch eines der empfindlichsten Sinnesorgane des Menschen.** 
+
+:::
 
 
 
-## Leistungen
+## medizinische Dienstleistungen
 
 1. **Sehschärfenbestimmung** und **Brillenanpassung**.
 2. **Alterssichtigkeit, Lesebrille**.
-3. **Vorsorgeuntersuchungen** bei Diabetes, Bluthochdruck, Glaukom, Makuladegeneration **Augendruckmessung**.
+3. **Vorsorgeuntersuchungen** bei Diabetes, Bluthochdruck, Glaukom, Makuladegeneration, **Augendruckmessung**.
 4. **Untersuchung des Augenhintergrundes / der Netzhaut**.
 5. **Messung der Hornhautdicke**.
 6. **OCT** (Okuläre Kohärenz Tomografie) zur Makula- und Sehnervendiagnostik.
 7. **Myopie-Kontrolle**.
 8. **Kontrollen und Behandlung des grauen und** **grünen** **Stars**.
-9. **Diabetesvorsorge** und **-****verlaufskontrolle**.
-10. **Makulopathievorsorge** und **-****verlaufskontrolle**.
-11. **Vorsorgeuntersuchung bei Rheuma, kindlichem Rheuma****,** **JIA, Morbus Bechterew, Sarkoidose,** **etc**.
+9. **Diabetesvorsorge** und **-verlaufskontrolle**.
+10. **Makulopathievorsorge** und **-verlaufskontrolle**.
+11. **Vorsorgeuntersuchung bei Rheuma, kindlichem Rheuma,JIA, Morbus Bechterew, Sarkoidose,** etc.
 
 
 
@@ -39,7 +49,13 @@ Mit einer regelmäßigen Vorsorgeuntersuchung beim Augenarzt gehen Sie sicher, a
 
 ### Warum zur Vorsorge-Untersuchung?
 
-Im Alltag müssen die Augen permanent funktionieren und werden kaum geschont. Diese  Leistungsfähigkeit hat ihren Preis. Wenn es nicht schon vorher zur Fehlsichtigkeit kommt, zeigen etwa ab dem 40. Lebensjahr **erste Alterserscheinungen**. Die Linse verliert an Elastizität und Alterssichtigkeit (Presbyopie) ist die Folge. Außerdem steigt das Risiko gefährlicher Augenerkrankungen wie dem Grünen Star (Glaukom). Später erhöht sich darüber hinaus das Risiko einer [altersbedingten Makuladegeneration (AMD), die genau wie das Glaukom die häufigste Ursache für eine  Erblindung ist. Die Frage sollte also nicht sein, warum eine  Vorsorgeuntersuchung beim Augenarzt wichtig ist, sondern vielmehr, warum man das Risiko eingehen sollte, auf eine solche zu verzichten.
+Im Alltag müssen die Augen permanent funktionieren und werden kaum geschont. Diese Leistungsfähigkeit hat ihren Preis. Wenn es nicht schon vorher zur Fehlsichtigkeit kommt, zeigen etwa ab dem 40. Lebensjahr **erste Alterserscheinungen**. Die Linse verliert an Elastizität und Alterssichtigkeit (*Presbyopie*) ist die Folge. Außerdem steigt das Risiko gefährlicher Augenerkrankungen wie dem Grünen Star (*Glaukom*). Später erhöht sich darüber hinaus das Risiko einer altersbedingten Makuladegeneration (AMD), die genau wie das Glaukom die häufigste Ursache für eine Erblindung ist. 
+
+:::caution
+
+Die Frage sollte also nicht sein, warum eine Vorsorgeuntersuchung beim Augenarzt wichtig ist, sondern vielmehr, warum man das Risiko eingehen sollte, auf eine solche zu verzichten.
+
+:::
 
 Wer auch im hohen Alter noch über eine gute Sehkraft verfügen will, der sollte regelmäßig den Augenarzt zur Vorsorge aufsuchen. Denn nur  wenn **Augenkrankheiten frühzeitig erkannt** werden, können sie gut behandelt werden. Hat die Krankheit sich bereits bemerkbar gemacht, sind die Schäden meist irreparabel. Gerade das Glaukom gehört zu den Erkrankungen, die sich schleichend entwickeln und häufig viel zu spät bemerkt werden. Aber auch Tumore, Grauer Star und eine beginnende Netzhautablösung können bei der Vorsorge beim Augenarzt rechtzeitig erkannt und behandelt werden.
 
@@ -62,11 +78,13 @@ Mit zunehmendem Alter steigt das Risiko für Augenerkrankungen. Deshalb empfehle
 
 Neben der allgemeinen Kontrolle der Sehschärfe und der Farb- und  Kontrastwahrnehmung kann der Augenarzt bei der Vorsorge nach Absprache  mit dem Patienten folgende Untersuchungen durchführen:
 
-- Bei der **Früherkennung von Glaukomen** misst der Arzt  den Augeninnendruck und untersucht den Zustand des Sehnervenkopfes  mittels einer Augenspiegelung. Ein Glaukom entsteht, weil das  Kammerwasser im Auge mit zunehmendem Alter schlechter abfließen kann,  was zu einem erhöhten Druck auf den Sehnerv führt.
+- Bei der **Früherkennung von Glaukomen** misst der Arzt den Augeninnendruck und untersucht den Zustand des Sehnervenkopfes  mittels einer Augenspiegelung. Ein Glaukom entsteht, weil das Kammerwasser im Auge mit zunehmendem Alter schlechter abfließen kann,  was zu einem erhöhten Druck auf den Sehnerv führt.
 - Um eine mögliche **altersbedingte Makuladegeneration** frühzeitig zu erkennen, untersucht der Arzt die Netzhaut mit einer Lupe. Darüber hinaus erläutert er dem Patienten den **Amsler-Gitter-Test**, der auch zur Selbstkontrolle angewendet werden kann. Bei dem Test geht  es darum, die Funktion der Netzhautmitte (Makula) zu prüfen. Dafür hält  sich der Patient in einem normalen Leseabstand die Abbildung eines  Gitters mit einem Punkt in der Mitte vors Gesicht und schaut mit jeweils einem Auge darauf. Erscheinen die Gitterlinien verzerrt, unterbrochen  oder verschwommen, kann das auf AMD hindeuten.
-- Was bei der Vorsorgeuntersuchung beim Augenarzt außerdem geschieht,  hängt vom Patienten und seinen Beschwerden ab: Der Arzt vermisst zum  Beispiel Hornhautdicke und Nervenfaserschicht, überprüft das  Gesichtsfeld oder nimmt eine Spiegelung des Augenhintergrunds vor.
+- Was bei der Vorsorgeuntersuchung beim Augenarzt außerdem geschieht, hängt vom Patienten und seinen Beschwerden ab: Der Arzt vermisst zum Beispiel Hornhautdicke und Nervenfaserschicht, überprüft das  Gesichtsfeld oder nimmt eine Spiegelung des Augenhintergrunds vor.
+
+
 
 ## Verweise
 
-Quelle = https://www.blickcheck.de/auge/augenpflege-und-training/augenpflege/vorsorgeuntersuchungen/ 
+- Quelle = https://www.blickcheck.de/auge/augenpflege-und-training/augenpflege/vorsorgeuntersuchungen/ 
 

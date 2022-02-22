@@ -1,14 +1,19 @@
 ---
 id: Augenoperationen
 title: Augenoperationen
-sidebar_position: 4
+sidebar_position: 60
+tags: [Augenoperationen, medizinische Dienstleistungen]
 ---
 
 # Augenoperationen
 
 ## Das Wichtigste in Kürze
 
+:::info
 
+**Erfahrung - gerade bei der Augenoperation - zählt! Mit über 800 Augenoperation (Stand Ende 2021) kann ich hier meine Erfahrungen einbringen.** 
+
+:::
 
 ## Einleitung 
 
@@ -18,12 +23,10 @@ Schon als Kind konnte mir keine Bastelarbeit zu klein sein. Diese Liebe zum Deta
 
 ## Leistungen
 
-
-
 ### Augenoperationen in der Klinik Hietzing
 
-1. **Grauer Star** 
-2. **Schlupflider** 
+1. **Grauer Star** Augenoperationen
+2. **Schlupflider** Augenoperationen
 3. **Lidfehlstellungen** (Ektropium, Entropium) 
 4. **Gerstenkorn, Hagelkorn**
 5. **Lidtumore**
@@ -36,8 +39,6 @@ In Kooperation mit der Klinik Hietzing betreue ich Sie auch rund um:
 
 
 
-## Hintergrund
+## Verweis
 
-
-
-## Verweise
+- [Belegsärztin](/docs/About/wahlaerztin)
