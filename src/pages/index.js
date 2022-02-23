@@ -92,11 +92,11 @@ Sollten Augenoperationen notwendig sein, kann ich diese als <b>Belegsärztin</b>
   <div class="col col--6">
     <div class="hero shadow--lw">  <div class="container">
       <h1 class="hero__title">Schwerpunkte</h1>
-      <p class="hero__subtitle">Voruntersuchungen, Beratung inklusive Organisation, Operation sowie Nachsorge bei</p>
+      <p class="hero__subtitle">Diagnosen, Beratung inklusive Organisation von Augenoperation sowie Nachsorge</p>
       <p> </p>
        <p>
          <li> Untersuchungen zu Augenbeschwerden durch Entzündungen (Uvitis, Bindehautentzündungen, Hornhautentzündungen) </li>
-         <li> Untersuchungen zu altersbedingte Augenkrankheiten (Makuladegeneration, Kataraktchirurgie - Grauer Star) </li>
+         <li> Untersuchungen zu altersbedingte Augenkrankheiten (ADM - Makuladegeneration, Kataraktchirurgie - Grauer Star) </li>
          <li> Untersuchungen zu weiteren Augenkrankheiten (Grüner Star - Glaukom, Netzhautablösung) </li>
          <li> Augenoperationen - Augenchirurgie </li>
        </p>
@@ -122,17 +122,15 @@ Sollten Augenoperationen notwendig sein, kann ich diese als <b>Belegsärztin</b>
     <div>
     <div class="hero shadow--lw">  <div class="container">
       <h1 class="hero__title">Medizinische Leistungen</h1>
-      <p class="hero__subtitle">Voruntersuchungen, Überprüfungen der Sehschärfe und der Netzhaut sowie Nachbehandlungen</p>
+      <p class="hero__subtitle">Vorsorge-Untersuchungen, Überprüfungen der Sehschärfe, der Netzhaut und der Linsen sowie Nachbehandlungen</p>
         <p>
           <li> Vorsorge-Untersuchungen und allgemeine Augendiagnostik </li>
-          <li> Überprüfung der Sehschärfe, Brillenverordnung, Beratung zu Brillengläsern und sonstigen Sehbehelfen</li>
+          <li> Beratung zu Brillengläsern und sonstigen Sehbehelfen</li>
           <li> Diagnose und Nachbehandlungen zu Grüner Star (Glaukom) und Grauen Star (Katarakt)</li>
-          <li> Diagnose und Nachbehandlungen zu Makuladegeneration (ADM)
-          <li> Diagnose und Nachbehandlungen von Augenentzündungen (Gerstenkorn - Hordeolum)
+          <li> Diagnose und Nachbehandlungen zu Makuladegeneration (ADM)</li>
+          <li> Diagnose von Augenentzündungen (Gerstenkorn - Hordeolum) </li>
           <li> Diagnose und Nachbehandlungen von Netzhautveränderungen (Diabetes, Gefäßverschluss) </li>
-          <li> Diagnose und Nachbehandlungen von Makulaerkrankungen (ADM) </li>
-          <li> Notfall-Untersuchungen
-          <li> Führerscheinuntersuchung </li>
+          <li> Notfall-Untersuchungen </li>
         </p>
       </div></div>
     </div>
