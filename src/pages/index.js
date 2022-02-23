@@ -67,6 +67,7 @@ export default function Home() {
       <p>
          <li> Oberätztin im Krankenhaus Hitzing </li>
          <li> über 20 Jahre Berufserfahrung </li>
+      <p> </p>
       </p>
       <div>
         <a class="button button--lg button--primary" href="/docs/Ueber"> Mehr über mich</a>
@@ -94,12 +95,13 @@ Sollten Augenoperationen notwendig sein, kann ich diese als <b>Belegsärztin</b>
       <p class="hero__subtitle">Voruntersuchungen, Beratung inklusive Organisation, Operation sowie Nachsorge bei</p>
       <p> </p>
        <p>
-         <li> Kataraktchirurgie (Grauer Star)</li>
-         <li> Lidchirurgie </li>
-         <li> Netzhautchirurgie </li>
+         <li> Untersuchungen zu Augenbeschwerden durch Entzündungen (Uvitis, Bindehautentzündungen, Hornhautentzündungen) </li>
+         <li> Untersuchungen zu altersbedingte Augenkrankheiten (Makuladegeneration, Kataraktchirurgie - Grauer Star) </li>
+         <li> Untersuchungen zu weiteren Augenkrankheiten (Grüner Star - Glaukom, Netzhautablösung) </li>
+         <li> Augenoperationen - Augenchirurgie </li>
        </p>
        <div>
-        <a class="button button--lg button--primary" href="/docs/Leitungen/"> Mehr zur medizinischen Leistungen </a>
+        <a class="button button--lg button--primary" href="/docs/Dienstleistungen/"> Mehr zur medizinischen Leistungen </a>
        </div>
     </div></div>
   </div> </div>
@@ -120,13 +122,16 @@ Sollten Augenoperationen notwendig sein, kann ich diese als <b>Belegsärztin</b>
     <div>
     <div class="hero shadow--lw">  <div class="container">
       <h1 class="hero__title">Medizinische Leistungen</h1>
-      <p class="hero__subtitle">Voruntersuchungen, Überprüfungen der Sehschärfe und der Netzhaut</p>
+      <p class="hero__subtitle">Voruntersuchungen, Überprüfungen der Sehschärfe und der Netzhaut sowie Nachbehandlungen</p>
         <p>
-          <li> Vorsorgeuntersuchungen, allgemeine Diagnostik </li>
+          <li> Vorsorge-Untersuchungen und allgemeine Augendiagnostik </li>
           <li> Überprüfung der Sehschärfe, Brillenverordnung, Beratung zu Brillengläsern und sonstigen Sehbehelfen</li>
-          <li> Untersuchungen zum Grüner Star (Glaukom) </li>
-          <li> Diagnose von Hornhauterkrankungen, Augenentzündungen, Netzhautveränderungen (Diabetes, Gefäßverschluss) </li>
-          <li> Diagnose von Makulaerkrankungen </li>
+          <li> Diagnose und Nachbehandlungen zu Grüner Star (Glaukom) und Grauen Star (Katarakt)</li>
+          <li> Diagnose und Nachbehandlungen zu Makuladegeneration (ADM)
+          <li> Diagnose und Nachbehandlungen von Augenentzündungen (Gerstenkorn - Hordeolum)
+          <li> Diagnose und Nachbehandlungen von Netzhautveränderungen (Diabetes, Gefäßverschluss) </li>
+          <li> Diagnose und Nachbehandlungen von Makulaerkrankungen (ADM) </li>
+          <li> Notfall-Untersuchungen
           <li> Führerscheinuntersuchung </li>
         </p>
       </div></div>
