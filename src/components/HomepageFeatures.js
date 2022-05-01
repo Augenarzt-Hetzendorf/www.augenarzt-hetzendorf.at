@@ -4,39 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Vorsorgeuntersuchungen und allgemeine Diagnosen ',
-    Svg: require('/img/landing/kids-20.svg').default,
-    description: (
-      <>
-        Überprüfung der Sehschärfe, Sehtests und Beratung zu Brillengläsern, Alterssichtigkeit, Lesebrille.
-        Vorsorgeuntersuchungen bei Diabetes, Bluthochdruck, Glaukom, Makuladegeneration Augendruckmessung.
-
-      </>
-    ),
-  },
-  {
-    title: 'Behandlung von zahlreichen Augenkrankheiten',
+    title: 'Augenentzündungen - Uvitis',
     Svg: require('/img/landing/eye-20.svg').default,
     description: (
-      <>
-      Untersuchung des Augenhintergrundes - der Netzhaut.
-      Messung der Hornhautdicke.
-      OCT (Okuläre Kohärenz Tomografie) zur Makula- und Sehnervendiagnostik.
-      Myopie-Kontrolle, Kontrollen und Behandlung des grauen und grünen Stars.
-      Diabetesvorsorge und -verlaufskontrolle. Makulopathievorsorge und -verlaufskontrolle.
-      Vorsorgeuntersuchung bei Rheuma, kindlichem Rheuma, JIA, Morbus Bechterew, Sarkoidose, etc.
-      </>
+      <> <p20>
+      Behandlung von Augenentzündungen - Uvitis, Bindehautentzündungen, Hornhautentzündungen.
+      </p20> </>
     ),
   },
   {
-    title: 'Augenoperationen - Grüner Star, grauer Star',
+    title: 'Augendiagnosen ',
+    Svg: require('/img/landing/kids-20.svg').default,
+    description: (
+      <> <p20>
+      Vorsorgeuntersuchungen, altersbedingte Augenkrankheiten, ADM Makuladegeneration.
+      </p20> </>
+    ),
+  },
+  {
+    title: 'Augenchirurgie',
     Svg: require('../../static/img/landing/book-20.svg').default,
     description: (
-      <>
-        An der Klinik Hietzing operiere ich Grauer Star Schlupflider Lidfehlstellungen (Ektropium, Entropium) Gerstenkorn, Hagelkorn Lidtumore. 
-        In Kooperation mit der Klinik Hietzing betreue ich Sie auch rund um: Netzoperationen (Netzhautablösung, Epiretinale Membran /Gliose),
-        Netzhautveränderungen bei Diabetes (Vitrektomie, Laser, IVOM) „Feuchte“ Makuladegeneration (IVOM).
-      </>
+      <> <p20>
+      Augenoperationen zu grauer und grüner Star, Glaukom, Netzhautablösung.
+      </p20> </>
     ),
   },
 ];

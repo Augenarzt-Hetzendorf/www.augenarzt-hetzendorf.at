@@ -1,5 +1,5 @@
 ---
-id: UveitisUntersuchungen
+id: Uveitis-Untersuchungen
 title: Uveitis-Untersuchungen
 sidebar_position: 40
 tags: [Entzündung, medizinische Dienstleistungen, Uveitis, Uveitis-Untersuchungen]
